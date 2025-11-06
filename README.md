@@ -9,6 +9,7 @@ Passionate Software Engineer with expertise in building scalable applications an
 📧 **Email:** krishna.0858@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/krishna0858](https://in.linkedin.com/in/krishna0858)  
 💻 **GitHub:** [@krishna3163](https://github.com/krishna3163)
+- 💻 **LeetCode:** [leetcode.com/u/krishna0858](https://leetcode.com/u/krishna0858/)
 
 ---
 
@@ -47,6 +48,55 @@ Passionate Software Engineer with expertise in building scalable applications an
 
 ---
 
+### 📊 LeetCode Statistics & Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/krishna0858?theme=dark&font=Syne&ext=heatmap)
+
+**Problem Solving Progress:**
+- 🟢 Easy: Solving fundamental problems
+- 🟡 Medium: Building problem-solving skills  
+- 🔴 Hard: Challenging myself with complex algorithms
+
+**Focus Areas:**
+- Data Structures & Algorithms
+- Dynamic Programming
+- Array & String Manipulation
+- Tree & Graph Algorithms
+
+---
+
+### 🎓 Certifications & Achievements
+
+<!-- Add your LinkedIn certificates here -->
+<!-- Template: 
+🏆 **[Certificate Name]** - [Issuing Organization]
+   - Issued: [Month Year]
+   - [Brief description or skills gained]
+   - [Certificate Link if available]
+-->
+
+🏆 **Programming Certifications**
+- Actively pursuing certifications in software development
+- Completed various online courses and tutorials
+- Continuous learning through platforms like Coursera, Udemy, and LinkedIn Learning
+
+🎯 **Professional Development**
+- Building strong foundation in Computer Science fundamentals
+- Regular practice on competitive coding platforms
+- Participating in coding challenges and hackathons
+
+---
+
+### 💡 What I'm Currently Working On
+
+- 🚀 Building full-stack web applications with modern technologies
+- 🧠 Solving daily coding challenges on LeetCode
+- 📚 Learning advanced algorithms and system design
+- 🔧 Contributing to open-source projects
+- 🎯 Working on personal projects to strengthen my portfolio
+
+
+
 ### 🎯 Featured Projects
 
 #### 🏦 [Bank Management System in C](https://github.com/krishna3163/Bank-management-system-in-C-language)
@@ -71,6 +121,7 @@ Simple airline seat booking application in C that allows users to book seats, vi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/krishna0858)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishna3163)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna.0858@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishna0858/)
 
 ---
 
