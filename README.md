@@ -128,29 +128,67 @@
 	</tr>
 </table>
 </div>
-<div align="center">
-<h2 align='center'><strong>Featured Projects 🚀</strong></h2>
 
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://github.com/krishna3163/QuickShop"><b>QuickShop</b></a><br>Full-Stack E-Commerce (React, Node.js, MongoDB)</td>
-    <td align="center"><a href="https://github.com/krishna3163/open-mercato"><b>Open-Mercato</b></a><br>AI CRM/ERP Foundation Framework</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/krishna3163/shizuku-apps-root-alternative"><b>Shizuku Apps</b></a><br>Root alternative collection for Android</td>
-    <td align="center"><a href="https://github.com/krishna3163/AI-Medical-Assistant"><b>AI Medical Assistant</b></a><br>AI Powered Healthcare Assistant</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/krishna3163/student-management-system"><b>Student Management</b></a><br>CRUD application with Java & MySQL</td>
-    <td align="center"><a href="https://github.com/krishna3163/EventProject"><b>EventProject</b></a><br>Event Management Platform</td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/QuickShop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=QuickShop&theme=react&border_radius=10" alt="QuickShop">
+        </a>
+        <br>
+        <b>QuickShop</b>: Full-Stack E-Commerce Platform
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/OpenDiscover">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=OpenDiscover&theme=react&border_radius=10" alt="OpenDiscover">
+        </a>
+        <br>
+        <b>OpenDiscover</b>: Modern Discovery Platform (⭐ 49+)
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/EventProject">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=EventProject&theme=react&border_radius=10" alt="EventProject">
+        </a>
+        <br>
+        <b>EventProject</b>: Contest & Event Management
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/open-mercato">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=open-mercato&theme=react&border_radius=10" alt="open-mercato">
+        </a>
+        <br>
+        <b>Open-Mercato</b>: AI-Supportive Enterprise CRM/ERP
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/shizuku-apps-root-alternative">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=shizuku-apps-root-alternative&theme=react&border_radius=10" alt="Shizuku Apps">
+        </a>
+        <br>
+        <b>Shizuku Apps</b>: Rootless Android Power Tools
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/krishna3163/AI-Medical-Assistant">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna3163&repo=AI-Medical-Assistant&theme=react&border_radius=10" alt="AI Medical Assistant">
+        </a>
+        <br>
+        <b>AI Medical Assistant</b>: Intelligent Healthcare Companion
+      </td>
+    </tr>
+  </table>
+  <br>
+  <a href="https://github.com/krishna3163?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge&logo=github" alt="View All Projects">
+  </a>
 </div>
+
 
 <br><br>
 
-</table>
-</div>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right"/>
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="left"/>
 
