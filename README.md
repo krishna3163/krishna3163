@@ -24,7 +24,7 @@
 
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 
 </h3>
 
@@ -38,16 +38,16 @@
 
 - 🔭 I’m currently working on **earthsome.co**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently learning **Three.js, DSA**
 
-- 💬 Ask me about **javaScript,Next.js,Python,C++**
+- 💬 Ask me about **javaScript, Next.js, Python, C++**
 
-- 📫 reach me @  **krishna3163@gmail.com**
+- 📫 reach me @ **krishna3163@gmail.com**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
 - 👀 I’m interested in **Web Development, Blockchain, and DSA**
-  
+
 - ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 
   <div align="center">
@@ -113,7 +113,7 @@
 	</tr>
 	<tr>
 		<td><strong>Debugging Tools</strong></td>
-		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> &nbsp;<img height=40 src="https://i.ibb.co/NYSZFBr/Untitled-design-6-removebg-preview.png">&nbsp;<img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png"></td>
+		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src="https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> &nbsp;<img height=40 src="https://i.ibb.co/NYSZFBr/Untitled-design-6-removebg-preview.png">&nbsp;<img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png"></td>
 	</tr>
 	<tr>
 		<td><strong>Collaboration Platforms</strong></td>
@@ -126,6 +126,24 @@
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		</td>
 	</tr>
+</table>
+</div>
+<div align="center">
+<h2 align='center'><strong>Featured Projects 🚀</strong></h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/krishna3163/QuickShop"><b>QuickShop</b></a><br>Full-Stack E-Commerce (React, Node.js, MongoDB)</td>
+    <td align="center"><a href="https://github.com/krishna3163/open-mercato"><b>Open-Mercato</b></a><br>AI CRM/ERP Foundation Framework</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/krishna3163/shizuku-apps-root-alternative"><b>Shizuku Apps</b></a><br>Root alternative collection for Android</td>
+    <td align="center"><a href="https://github.com/krishna3163/AI-Medical-Assistant"><b>AI Medical Assistant</b></a><br>AI Powered Healthcare Assistant</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/krishna3163/student-management-system"><b>Student Management</b></a><br>CRUD application with Java & MySQL</td>
+    <td align="center"><a href="https://github.com/krishna3163/EventProject"><b>EventProject</b></a><br>Event Management Platform</td>
+  </tr>
 </table>
 </div>
 
