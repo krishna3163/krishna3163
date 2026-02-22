@@ -36,19 +36,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20views&color=0e75b6&style=flat" alt="krishna3163" /> </p>
 
-- 🔭 I’m currently working on **earthsome.co**
 
-- 🌱 I’m currently learning **Three.js, DSA**
-
-- 💬 Ask me about **javaScript, Next.js, Python, C++**
-
-- 📫 reach me @ **krishna3163@gmail.com**
-
-- 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
-
-- 👀 I’m interested in **Web Development, Blockchain, and DSA**
-
-- ⚡ Fun fact **I am a Funny webber🕸️🕸️**
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
