@@ -1,34 +1,55 @@
 
-<br>
-
-![MasterHead](https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 <div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Krishna%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source%20Contributor&descSize=19&descAlignY=62" width="100%" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Krishna's+Portfolio!🪄+Software+Developer+%E2%80%A2+Problem+Solver!)](https://git.io/typing-svg)
+  <br><br>
 
- <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" width="140" height="160">
- <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/giphy.gif" width="180" height="170">
- <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
- <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" width="174" height="190">
- <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" >
+  <!-- MasterHead Banner GIF -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius:12px;" alt="MasterHead" />
+
+  <br><br>
+
+  <!-- Animated Character Lineup -->
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" height="150" alt="Wizard" /></td>
+      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/giphy.gif" height="150" alt="Magic" /></td>
+      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" height="150" alt="Spellcaster" /></td>
+      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" height="150" alt="Dragon" /></td>
+      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" height="150" alt="Enchanter" /></td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Clean Greeting & Animated Name SVG -->
+  <h1>
+    Greetings & Welcome! <img width="38" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/> I'm <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/myname.svg" height="50" alt="Krishna"/>
+  </h1>
+
+  <!-- Single Typing SVG Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&color=C084FC&size=28&height=65&center=true&vCenter=true&width=1000&lines=Software+Developer;Problem+Solver;Open+Source+Contributor;Full+Stack+%26+Cloud+Engineer;DSA+%26+System+Design;B.Tech+CSE+'27+@+AKTU;" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <!-- Quick Badges & Profile Views -->
+  <p>
+    <a href="https://in.linkedin.com/in/krishna0858"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:kk3163019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/krishna0858/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://github.com/krishna3163"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
+  </p>
+
 </div>
-
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/myname.svg"  alt="Krishna"/></h1>
-
-<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Software+Developer;Problem+Solver;Open+Source+Contributor;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;" alt="Typing SVG" />
-</h3>
-
-<h3 align="center"><strong> Software Developer — Problem Solver — Open Source Contributor  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
 
 <img align="right" alt="Coding" width="480" height="290" src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20views&color=0e75b6&style=flat" alt="krishna3163" /> </p>
 
 <br>
 
