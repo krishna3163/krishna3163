@@ -6,10 +6,7 @@
 
   <br><br>
 
-  <!-- MasterHead Banner GIF -->
-  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius:12px;" alt="MasterHead" />
 
-  <br><br>
 
   <!-- Animated Character Lineup -->
   <table border="0" cellspacing="0" cellpadding="0">
@@ -78,11 +75,7 @@
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/profile-3d-card.svg" alt="3D Profile Card" width="100%" />
-</div>
 
----
 
 <div align="center">
 <h2 align='center'><strong>🎓 Education</strong></h2>
@@ -333,20 +326,20 @@
 
 <!-- GitHub Streak & Stats -->
 <a href="https://github.com/krishna3163">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna3163&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=krishna3163&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/krishna3163">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna3163&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna3163&theme=radical" alt="GitHub Stats" />
 </a>
 
 <br><br>
 
 <!-- Top Languages -->
 <a href="https://github.com/krishna3163">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna3163&theme=radical" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna3163&theme=radical" alt="Top Languages by Repo" />
 </a>
 <a href="https://github.com/krishna3163">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna3163&theme=radical" alt="Top Languages by Commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna3163&theme=radical" alt="Top Languages by Commit" />
 </a>
 
 <br><br>
