@@ -1,7 +1,7 @@
 
 <br>
 
-![MasterHead](./Gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center">
 
@@ -9,14 +9,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=1250&lines=Greetings+From+Krishna's+Enchanters🪄+Your+Passport+to+a+World+Of+Wonder!)](https://git.io/typing-svg)
 
- <img src="./Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" width="140" height="160">
- <img src="./Gif/giphy.gif" width="180" height="170">
-  <img src="./Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
-<img src="./Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" width="174" height="190">
-<img src="./Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" >
+ <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" width="140" height="160">
+ <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/giphy.gif" width="180" height="170">
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="140">
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" width="174" height="190">
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" >
 </div>
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Krishna"/></h1>
+<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/myname.svg"  alt="Krishna"/></h1>
 
 
 
@@ -29,7 +29,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="500" height="300" src="./Gif/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+<img align="right" alt="Coding" width="500" height="300" src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20views&color=0e75b6&style=flat" alt="krishna3163" /> </p>
 
@@ -58,14 +58,14 @@
 
 <!-- 3D Profile Stats Card -->
 <div align="center">
-<img src="./assets/profile-3d-stats.svg" alt="3D Profile Stats" width="100%" />
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/profile-3d-stats.svg" alt="3D Profile Stats" width="100%" />
 </div>
 
 <br>
 
 <!-- 3D Full Profile Card -->
 <div align="center">
-<img src="./assets/profile-3d-card.svg" alt="3D Profile Card" width="100%" />
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/profile-3d-card.svg" alt="3D Profile Card" width="100%" />
 </div>
 
 ---
@@ -163,7 +163,7 @@
 <br>
 
 <div align="center">
-<img src="./Gif/Skills_Animation_Dark.gif" alt="Skills Animation" width="98%" />
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/Skills_Animation_Dark.gif" alt="Skills Animation" width="98%" />
 </div>
 
 ---
@@ -179,13 +179,13 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="./Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" alt="Pixel Mart Night" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" alt="Pixel Mart Night" />
         <br>
         <b>🏪 Pixel Mart — Rainy Night</b>
         <br><sub>Neon signs pulsing • Shiba Inu sitting • Warm shop glow</sub>
       </td>
       <td width="50%" align="center">
-        <img src="./Gif/ChatGPT_Image_Aug_10_2026_09_46_13_PM.gif" width="100%" alt="Sakura Village" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_46_13_PM.gif" width="100%" alt="Sakura Village" />
         <br>
         <b>🌸 Sakura Samurai — Moonlit Village</b>
         <br><sub>Falling petals • Lantern flicker • Castle & moon glow</sub>
@@ -193,13 +193,13 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="./Gif/cyberpunk_samurai.gif" width="100%" alt="Cyberpunk Samurai" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" alt="Cyberpunk Samurai" />
         <br>
         <b>⚡ Cyberpunk Neon Samurai</b>
         <br><sub>Neon katana energy • Cyber rain • Digital sparks</sub>
       </td>
       <td width="50%" align="center">
-        <img src="./Gif/lofi_gamer_cat.gif" width="100%" alt="Lofi Gamer Room" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" alt="Lofi Gamer Room" />
         <br>
         <b>☕ Lofi Coder Room</b>
         <br><sub>Sleeping cat • Rain on window • Equalizer beats</sub>
@@ -207,13 +207,13 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="./Gif/mystic_sorcerer.gif" width="100%" alt="Mystic Sorcerer" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/mystic_sorcerer.gif" width="100%" alt="Mystic Sorcerer" />
         <br>
         <b>🔮 Mystic Dark Elf Sorcerer</b>
         <br><sub>Swirling magic orb • Cosmic moon • Arcane energy</sub>
       </td>
       <td width="50%" align="center">
-        <img src="./Gif/coder_workspace_animated.gif" width="100%" alt="Coder Workspace" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" alt="Coder Workspace" />
         <br>
         <b>💻 Coder Workspace — Night Shift</b>
         <br><sub>Monitor glow • Head bobbing • Coffee steam rising</sub>
@@ -221,7 +221,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="./Gif/rooftop_sunset_animated.gif" width="100%" alt="Rooftop Sunset" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" alt="Rooftop Sunset" />
         <br>
         <b>🌅 Rooftop Sunset — Tokyo Vibes</b>
         <br><sub>Neon signs • Lantern flame • Twinkling stars</sub>
