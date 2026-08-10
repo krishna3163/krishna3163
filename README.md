@@ -1,8 +1,8 @@
 
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Krishna%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source%20Contributor&descSize=19&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Dynamic Waving Header Banner Card -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/hero-header.svg" width="100%" alt="Krishna Kumar - Software Developer" />
 
   <br><br>
 
@@ -415,6 +415,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<!-- Matching Footer Banner Card -->
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/footer-card.svg" width="100%" alt="Thanks For Visiting My Portfolio!" />
 
 </div>
