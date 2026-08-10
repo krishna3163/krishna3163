@@ -351,22 +351,9 @@
 
 <br><br>
 
-<!-- 3D Contribution Skyline -->
-<h3>🌟 3D Contribution Skyline</h3>
-<br>
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-night-green.svg" alt="3D Night Green" width="100%"/>
+<!-- 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow" width="100%"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Green Animated" width="100%"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-gitblock.svg" alt="3D GitBlock" width="100%"/>
 
 <br><br>
 
