@@ -24,10 +24,9 @@
 
   <br>
 
-  <!-- Clean Greeting & Animated Name SVG -->
-  <h1>
-    Greetings & Welcome! <img width="38" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/> I'm <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/myname.svg" height="50" alt="Krishna"/>
-  </h1>
+  <!-- Dynamic Animated Greeting Title Card -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/greeting-title.svg" width="100%" alt="Greetings &amp; Welcome! I'm Krishna Kumar" />
+
 
   <!-- Single Typing SVG Subtitle -->
   <a href="https://git.io/typing-svg">

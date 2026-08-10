@@ -1,0 +1,120 @@
+<svg fill="none" viewBox="0 0 900 130" width="900" height="130" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&amp;family=Space+Grotesk:wght@700&amp;display=swap');
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        @keyframes gradientMove {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        @keyframes waveHand {
+          0%, 100% { transform: rotate(0deg); }
+          20% { transform: rotate(14deg); }
+          40% { transform: rotate(-8deg); }
+          60% { transform: rotate(14deg); }
+          80% { transform: rotate(-4deg); }
+        }
+
+        @keyframes pulseGlow {
+          0%, 100% { filter: drop-shadow(0 0 15px rgba(168, 85, 247, 0.4)); }
+          50% { filter: drop-shadow(0 0 30px rgba(236, 72, 153, 0.7)); }
+        }
+
+        @keyframes floatSparkle {
+          0%, 100% { transform: translateY(0px) scale(0.9); opacity: 0.5; }
+          50% { transform: translateY(-6px) scale(1.15); opacity: 1; }
+        }
+
+        .container {
+          width: 880px;
+          height: 115px;
+          margin: 5px auto;
+          background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(30, 27, 75, 0.9) 50%, rgba(15, 23, 42, 0.9) 100%);
+          border: 1px solid rgba(168, 85, 247, 0.35);
+          border-radius: 20px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 16px;
+          padding: 0 30px;
+          font-family: 'Outfit', -apple-system, sans-serif;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(168, 85, 247, 0.15);
+        }
+
+        .ambient-light {
+          position: absolute;
+          width: 250px;
+          height: 250px;
+          border-radius: 50%;
+          background: radial-gradient(circle, rgba(168, 85, 247, 0.25) 0%, rgba(0, 0, 0, 0) 70%);
+          top: -60px;
+          left: 50%;
+          transform: translateX(-50%);
+          pointer-events: none;
+        }
+
+        .greeting-text {
+          font-size: 32px;
+          font-weight: 700;
+          color: #e2e8f0;
+          letter-spacing: -0.01em;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .wave-emoji {
+          display: inline-block;
+          font-size: 36px;
+          transform-origin: 70% 70%;
+          animation: waveHand 2.5s infinite ease-in-out;
+        }
+
+        .name-highlight {
+          font-size: 40px;
+          font-weight: 900;
+          background: linear-gradient(90deg, #c084fc, #f472b6, #38bdf8, #c084fc);
+          background-size: 300% 300%;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+          animation: gradientMove 4s ease infinite, pulseGlow 3s infinite ease-in-out;
+          letter-spacing: -0.02em;
+          padding: 0 4px;
+        }
+
+        .sparkle {
+          position: absolute;
+          font-size: 16px;
+          color: #f472b6;
+          animation: floatSparkle 3s ease-in-out infinite;
+        }
+        .sp1 { top: 15px; left: 40px; animation-delay: 0s; }
+        .sp2 { bottom: 15px; right: 50px; animation-delay: 1.5s; color: #38bdf8; }
+        .sp3 { top: 20px; right: 120px; animation-delay: 0.8s; color: #c084fc; }
+
+      </style>
+
+      <div class="container">
+        <div class="ambient-light"></div>
+        <span class="sparkle sp1">✦</span>
+        <span class="sparkle sp2">✦</span>
+        <span class="sparkle sp3">✨</span>
+
+        <div class="greeting-text">
+          <span>Greetings &amp; Welcome!</span>
+          <span class="wave-emoji">👋</span>
+          <span>I'm</span>
+          <span class="name-highlight">Krishna Kumar</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
