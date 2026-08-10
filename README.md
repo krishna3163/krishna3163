@@ -56,7 +56,7 @@
 - 💻 **Full-Stack Developer** specializing in React, Node.js, Express, Python, Java, and Cloud Technologies
 - 🎯 Solved **100+ DSA Problems** on LeetCode & Active Open-Source Contributor
 - 🛠️ Experienced in building real-time healthcare platforms, e-commerce applications, and AI integrations
-- 📄 View full CV details directly below or connect via **kk3163019@gmail.com** / **+91 8210763241**
+- 📄 View full CV details directly below or connect via **kk3163019@gmail.com** / **WhatsApp: +91 8210763241**
 
 <br>
 
@@ -189,7 +189,6 @@
 
 <div align="center">
 <h2 align='center'><strong>🚀 Featured Projects Showcase</strong></h2>
-<p><i>Production-grade Web Applications & Systems built from scratch</i></p>
 </div>
 
 <br>
@@ -384,7 +383,7 @@
 
 <a href="https://in.linkedin.com/in/krishna0858" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kk3163019@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+918210763241"><img src="https://img.shields.io/badge/Phone-+91_8210763241-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/918210763241" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_8210763241-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://leetcode.com/u/krishna0858/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.geeksforgeeks.org/user/krishna3163/" target="_blank"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://github.com/krishna3163" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
