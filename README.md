@@ -193,10 +193,10 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" alt="Cyberpunk Samurai" />
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" alt="Coder Workspace" />
         <br>
-        <b>⚡ Cyberpunk Neon Samurai</b>
-        <br><sub>Neon katana energy • Cyber rain • Digital sparks</sub>
+        <b>💻 Coder Workspace — Night Shift</b>
+        <br><sub>Monitor glow • Head bobbing • Coffee steam rising</sub>
       </td>
       <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" alt="Lofi Gamer Room" />
@@ -213,21 +213,52 @@
         <br><sub>Swirling magic orb • Cosmic moon • Arcane energy</sub>
       </td>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" alt="Coder Workspace" />
-        <br>
-        <b>💻 Coder Workspace — Night Shift</b>
-        <br><sub>Monitor glow • Head bobbing • Coffee steam rising</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" alt="Rooftop Sunset" />
         <br>
         <b>🌅 Rooftop Sunset — Tokyo Vibes</b>
         <br><sub>Neon signs • Lantern flame • Twinkling stars</sub>
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
-        &nbsp;
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" alt="Cyberpunk Samurai" />
+        <br>
+        <b>⚡ Cyberpunk Neon Samurai</b>
+        <br><sub>Neon katana energy • Cyber rain • Digital sparks</sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" width="180" height="190" alt="Black Wizard" />
+        <br>
+        <b>🧙‍♂️ Kuro — Black Wizard</b>
+        <br><sub>Spellcasting aura • Floating wizard pixel art</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" width="200" height="210" alt="Dragon" />
+        <br>
+        <b>🐉 Mystic Dragon</b>
+        <br><sub>Fantasy pixel creature animation</sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" width="180" height="190" alt="Elemental Sorcerer" />
+        <br>
+        <b>🔥 Elemental Enchanter</b>
+        <br><sub>Flame & arcane magic idle animation</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/giphy.gif" width="200" height="190" alt="Magic Sparkles" />
+        <br>
+        <b>✨ Magic Sparkles & Wand</b>
+        <br><sub>Enchanted glowing wand animation</sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" width="180" height="190" alt="Spellcaster" />
+        <br>
+        <b>🔮 Spellcaster Companion</b>
+        <br><sub>Floating mage pixel sprite</sub>
       </td>
     </tr>
   </table>
