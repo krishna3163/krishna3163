@@ -73,7 +73,7 @@
 - 💻 **Full-Stack Developer** specializing in React, Node.js, Express, Python, Java, and Cloud Technologies
 - 🎯 Solved **100+ DSA Problems** on LeetCode & Active Open-Source Contributor
 - 🛠️ Experienced in building real-time healthcare platforms, e-commerce applications, and AI integrations
-- 📄 View full CV details directly below or connect via **kk3163019@gmail.com** / **WhatsApp: +91 8210763241**
+- 📄 View full CV details directly below or connect via **kk3163019@gmail.com** / **Telegram: [@kk3163019](https://t.me/kk3163019)** / **WhatsApp: +91 8210763241**
 
 <br>
 
@@ -612,8 +612,8 @@
       </a>
     </td>
     <td align="center" style="padding: 0 6px;">
-      <a href="https://t.me/popMODS" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="Telegram" title="Telegram Channel" />
+      <a href="https://t.me/kk3163019" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="Telegram" title="Telegram @kk3163019" />
       </a>
     </td>
     <td align="center" style="padding: 0 6px;">
