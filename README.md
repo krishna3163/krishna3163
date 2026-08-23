@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 11:48 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 11:54 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -433,10 +433,18 @@
 
 <br><br>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/krishna3163">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=krishna3163&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</a>
+<!-- GitHub Official 3D Achievements Showcase -->
+<div align="center">
+  <h3 align="center"><strong>🎖️ GitHub Official Achievements & Badges</strong></h3>
+  <br>
+  <a href="https://github.com/krishna3163?tab=achievements" target="_blank">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95" alt="Pull Shark" title="Pull Shark - Merged PRs" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw - Fast Response" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO - Merged Without Review" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="95" alt="Starstruck" title="Starstruck - High Starred Repos" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Commits" />
+  </a>
+</div>
 
 <br><br>
 
@@ -445,12 +453,46 @@
 </div>
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/krishna3163`](https://github.com/krishna3163/krishna3163) — _Update code_ (`2026-08-23`)
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
-- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th align="left" width="22%">Activity</th>
+      <th align="left" width="40%">Repository</th>
+      <th align="left" width="26%">Summary</th>
+      <th align="center" width="12%">Date</th>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/awesome-android-app-repositories"><code>krishna3163/awesome-android-app-repositories</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">✨ Created branch</td>
+      <td align="left"><a href="https://github.com/krishna3163/awesome-android-app-repositories"><code>krishna3163/awesome-android-app-repositories</code></a></td>
+      <td align="left"><i>New branch initialized</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/kdeconnect-kde"><code>krishna3163/kdeconnect-kde</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"><code>krishna3163/best_shizuku_apps_for_android_no_root</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-08-22</code></td>
+    </tr>
+  </table>
+</div>
 <!-- RECENT_ACTIVITY:END -->
 
 <br><br>

@@ -132,16 +132,17 @@ def generate_leetcode_section(stats: dict) -> str:
 # ---------------------------------------------------------------------------
 
 
-def fetch_recent_activity(username: str = GITHUB_USERNAME, limit: int = 6) -> list[str]:
-    """Fetch public activity events for the user."""
-    url = f"https://api.github.com/users/{username}/events/public?per_page=30"
+def fetch_recent_activity(username: str = GITHUB_USERNAME, limit: int = 5) -> list[dict]:
+    """Fetch and deduplicate public activity events for the user."""
+    url = f"https://api.github.com/users/{username}/events/public?per_page=40"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         req.add_header("Authorization", f"Bearer {token}")
 
-    activities: list[str] = []
+    activities: list[dict] = []
+    seen_keys: set[str] = set()
 
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
@@ -158,28 +159,80 @@ def fetch_recent_activity(username: str = GITHUB_USERNAME, limit: int = 6) -> li
                 date_str = created_at[:10] if created_at else ""
 
                 if etype == "PushEvent":
-                    commits = event.get("payload", {}).get("commits", [])
-                    count = len(commits)
-                    msg = commits[0].get("message", "").split("\n")[0] if commits else "Update code"
-                    if len(msg) > 60:
-                        msg = msg[:57] + "..."
-                    activities.append(f"🔨 Pushed **{count} commit(s)** to [`{repo_name}`]({repo_url}) — _{msg}_ (`{date_str}`)")
+                    payload = event.get("payload", {})
+                    commits = payload.get("commits", [])
+                    count = payload.get("size") or payload.get("distinct_size") or len(commits) or 1
+                    msg = commits[0].get("message", "").split("\n")[0] if commits else "Update codebase"
+                    if len(msg) > 55:
+                        msg = msg[:52] + "..."
+
+                    key = f"push:{repo_name}:{date_str}"
+                    if key in seen_keys:
+                        continue
+                    seen_keys.add(key)
+
+                    activities.append({
+                        "icon": "🔨",
+                        "action": f"Pushed <b>{count} commit(s)</b>",
+                        "repo_name": repo_name,
+                        "repo_url": repo_url,
+                        "detail": msg,
+                        "date": date_str,
+                    })
 
                 elif etype == "CreateEvent":
                     ref_type = event.get("payload", {}).get("ref_type", "branch")
-                    activities.append(f"✨ Created {ref_type} on [`{repo_name}`]({repo_url}) (`{date_str}`)")
+                    key = f"create:{repo_name}:{ref_type}:{date_str}"
+                    if key in seen_keys:
+                        continue
+                    seen_keys.add(key)
+
+                    activities.append({
+                        "icon": "✨",
+                        "action": f"Created {ref_type}",
+                        "repo_name": repo_name,
+                        "repo_url": repo_url,
+                        "detail": f"New {ref_type} initialized",
+                        "date": date_str,
+                    })
 
                 elif etype == "WatchEvent":
-                    activities.append(f"⭐ Starred repository [`{repo_name}`]({repo_url}) (`{date_str}`)")
+                    key = f"watch:{repo_name}"
+                    if key in seen_keys:
+                        continue
+                    seen_keys.add(key)
+
+                    activities.append({
+                        "icon": "⭐",
+                        "action": "Starred repo",
+                        "repo_name": repo_name,
+                        "repo_url": repo_url,
+                        "detail": "Saved to favorites",
+                        "date": date_str,
+                    })
 
                 elif etype == "PullRequestEvent":
                     action = event.get("payload", {}).get("action", "opened")
                     pr_num = event.get("payload", {}).get("number", "")
-                    activities.append(f"🔀 **{action.capitalize()} PR #{pr_num}** on [`{repo_name}`]({repo_url}) (`{date_str}`)")
+                    activities.append({
+                        "icon": "🔀",
+                        "action": f"{action.capitalize()} PR #{pr_num}",
+                        "repo_name": repo_name,
+                        "repo_url": repo_url,
+                        "detail": "Pull request contribution",
+                        "date": date_str,
+                    })
 
                 elif etype == "ReleaseEvent":
                     tag = event.get("payload", {}).get("release", {}).get("tag_name", "release")
-                    activities.append(f"🚀 Published release **{tag}** on [`{repo_name}`]({repo_url}) (`{date_str}`)")
+                    activities.append({
+                        "icon": "🚀",
+                        "action": f"Release <b>{tag}</b>",
+                        "repo_name": repo_name,
+                        "repo_url": repo_url,
+                        "detail": f"Published release {tag}",
+                        "date": date_str,
+                    })
 
     except Exception as exc:
         logger.warning("[WARNING] Failed to fetch GitHub activity: %s", exc)
@@ -187,12 +240,42 @@ def fetch_recent_activity(username: str = GITHUB_USERNAME, limit: int = 6) -> li
     return activities
 
 
-def generate_recent_activity_section(activities: list[str]) -> str:
-    """Generate markdown block for recent activity stream."""
+def generate_recent_activity_section(activities: list[dict]) -> str:
+    """Generate sleek, modern table card for recent activity stream."""
     if not activities:
-        return "- 🚀 Active daily in open-source development and algorithm problem-solving."
+        return (
+            '<div align="center">\n'
+            '  <p>🚀 <i>Active daily in open-source development and algorithm problem-solving.</i></p>\n'
+            '</div>'
+        )
 
-    lines = [f"- {act}" for act in activities]
+    lines = []
+    lines.append('<div align="center">')
+    lines.append('  <table width="100%">')
+    lines.append('    <tr>')
+    lines.append('      <th align="left" width="22%">Activity</th>')
+    lines.append('      <th align="left" width="40%">Repository</th>')
+    lines.append('      <th align="left" width="26%">Summary</th>')
+    lines.append('      <th align="center" width="12%">Date</th>')
+    lines.append('    </tr>')
+
+    for act in activities:
+        icon = act["icon"]
+        action = act["action"]
+        repo_name = act["repo_name"]
+        repo_url = act["repo_url"]
+        detail = act["detail"]
+        date = act["date"]
+
+        lines.append('    <tr>')
+        lines.append(f'      <td align="left">{icon} {action}</td>')
+        lines.append(f'      <td align="left"><a href="{repo_url}"><code>{repo_name}</code></a></td>')
+        lines.append(f'      <td align="left"><i>{detail}</i></td>')
+        lines.append(f'      <td align="center"><code>{date}</code></td>')
+        lines.append('    </tr>')
+
+    lines.append('  </table>')
+    lines.append('</div>')
     return "\n".join(lines)
 
 
