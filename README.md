@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 12:03 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 12:09 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -462,15 +462,15 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
-      <td align="center"><code>2026-08-23</code></td>
-    </tr>
-    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
       <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
       <td align="center"><code>2026-08-23</code></td>
     </tr>
     <tr>
@@ -590,16 +590,49 @@
 ---
 
 <div align="center">
-<h2 align='center'><strong>🤝 Let's Connect & Collaborate</strong></h2>
+<h2 align='center'><strong>🌍 Connect With Me</strong></h2>
 
 <br>
 
-<a href="https://in.linkedin.com/in/krishna0858" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kk3163019@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/918210763241" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-+91_8210763241-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://leetcode.com/u/krishna0858/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/krishna3163/" target="_blank"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://github.com/krishna3163" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://in.linkedin.com/in/krishna0858" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn @krishna0858" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="mailto:kk3163019@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="Gmail" title="Email kk3163019@gmail.com" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://wa.me/918210763241" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="WhatsApp" title="WhatsApp +91 8210763241" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://t.me/popMODS" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="Telegram" title="Telegram Channel" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://leetcode.com/u/krishna0858/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50" alt="LeetCode" title="LeetCode @krishna0858" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://www.geeksforgeeks.org/user/krishna3163/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50" height="50" alt="GFG" title="GeeksforGeeks @krishna3163" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 6px;">
+      <a href="https://github.com/krishna3163" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50" alt="GitHub" title="GitHub @krishna3163" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
