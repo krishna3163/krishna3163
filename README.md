@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 11:54 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 11:59 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -462,6 +462,12 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/krishna3163/awesome-android-app-repositories"><code>krishna3163/awesome-android-app-repositories</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
+      <td align="center"><code>2026-08-23</code></td>
+    </tr>
+    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
       <td align="left"><i>Update codebase</i></td>
@@ -485,12 +491,6 @@
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-08-23</code></td>
     </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"><code>krishna3163/best_shizuku_apps_for_android_no_root</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-08-22</code></td>
-    </tr>
   </table>
 </div>
 <!-- RECENT_ACTIVITY:END -->
@@ -507,6 +507,84 @@
 </picture>
 
 </div>
+
+---
+
+<div align="center">
+<h2 align='center'><strong>💖 Community Wall & Thank You Supporters</strong></h2>
+</div>
+
+<br>
+
+<!-- COMMUNITY_WALL:START -->
+<div align="center">
+  <p>💖 <b>A heartfelt thank you to all the amazing developers, stargazers, and followers supporting my open-source work!</b></p>
+  <br>
+  <p>
+    <a href="https://github.com/Kos-M" target="_blank" title="Thank you @Kos-M!">
+      <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Kos-M" />
+    </a>
+    <a href="https://github.com/Immanuel9567" target="_blank" title="Thank you @Immanuel9567!">
+      <img src="https://avatars.githubusercontent.com/u/71874885?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Immanuel9567" />
+    </a>
+    <a href="https://github.com/theBFGuk" target="_blank" title="Thank you @theBFGuk!">
+      <img src="https://avatars.githubusercontent.com/u/107422467?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@theBFGuk" />
+    </a>
+    <a href="https://github.com/AhmedDabish" target="_blank" title="Thank you @AhmedDabish!">
+      <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@AhmedDabish" />
+    </a>
+    <a href="https://github.com/rahuloraj" target="_blank" title="Thank you @rahuloraj!">
+      <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@rahuloraj" />
+    </a>
+    <a href="https://github.com/Jabaos" target="_blank" title="Thank you @Jabaos!">
+      <img src="https://avatars.githubusercontent.com/u/120006442?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Jabaos" />
+    </a>
+    <a href="https://github.com/S4IL21" target="_blank" title="Thank you @S4IL21!">
+      <img src="https://avatars.githubusercontent.com/u/126200245?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@S4IL21" />
+    </a>
+    <a href="https://github.com/ApeNFTLover" target="_blank" title="Thank you @ApeNFTLover!">
+      <img src="https://avatars.githubusercontent.com/u/131627530?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@ApeNFTLover" />
+    </a>
+    <a href="https://github.com/Singh-Ujjawal" target="_blank" title="Thank you @Singh-Ujjawal!">
+      <img src="https://avatars.githubusercontent.com/u/160817499?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Singh-Ujjawal" />
+    </a>
+    <a href="https://github.com/Hare-Ram-Yadav" target="_blank" title="Thank you @Hare-Ram-Yadav!">
+      <img src="https://avatars.githubusercontent.com/u/194274692?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Hare-Ram-Yadav" />
+    </a>
+    <a href="https://github.com/Gourav-kr-11" target="_blank" title="Thank you @Gourav-kr-11!">
+      <img src="https://avatars.githubusercontent.com/u/194532793?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Gourav-kr-11" />
+    </a>
+    <a href="https://github.com/Princekumar60090" target="_blank" title="Thank you @Princekumar60090!">
+      <img src="https://avatars.githubusercontent.com/u/209690435?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Princekumar60090" />
+    </a>
+    <a href="https://github.com/jaydev55678" target="_blank" title="Thank you @jaydev55678!">
+      <img src="https://avatars.githubusercontent.com/u/231234419?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@jaydev55678" />
+    </a>
+    <a href="https://github.com/DSQ2x" target="_blank" title="Thank you @DSQ2x!">
+      <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@DSQ2x" />
+    </a>
+    <a href="https://github.com/Saqquibkhan00" target="_blank" title="Thank you @Saqquibkhan00!">
+      <img src="https://avatars.githubusercontent.com/u/245874007?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@Saqquibkhan00" />
+    </a>
+    <a href="https://github.com/romuluskopernikus13-cell" target="_blank" title="Thank you @romuluskopernikus13-cell!">
+      <img src="https://avatars.githubusercontent.com/u/261547491?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@romuluskopernikus13-cell" />
+    </a>
+    <a href="https://github.com/piyush3109" target="_blank" title="Thank you @piyush3109!">
+      <img src="https://avatars.githubusercontent.com/u/263565468?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@piyush3109" />
+    </a>
+    <a href="https://github.com/2303630100089-lang" target="_blank" title="Thank you @2303630100089-lang!">
+      <img src="https://avatars.githubusercontent.com/u/266461784?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@2303630100089-lang" />
+    </a>
+    <a href="https://github.com/ancaferro" target="_blank" title="Thank you @ancaferro!">
+      <img src="https://avatars.githubusercontent.com/u/287352285?v=4" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@ancaferro" />
+    </a>
+  </p>
+  <br>
+  <p><sub>⭐ <i>Star any of my repositories or hit follow to be automatically featured on this wall!</i></sub></p>
+</div>
+<!-- COMMUNITY_WALL:END -->
+
+<br><br>
 
 ---
 

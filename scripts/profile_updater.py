@@ -280,7 +280,90 @@ def generate_recent_activity_section(activities: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------------------
-# 3. Top Repositories & Star Count Showcase
+# 3. Community Wall & Stargazers / Followers Showcase
+# ---------------------------------------------------------------------------
+
+
+def fetch_community_supporters(username: str = GITHUB_USERNAME, limit: int = 24) -> list[dict]:
+    """Fetch stargazers, followers, and supporters to display on the Community Wall."""
+    supporters: dict[str, dict] = {}
+
+    headers = {"User-Agent": "Mozilla/5.0"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    # 1. Fetch Followers
+    try:
+        url = f"https://api.github.com/users/{username}/followers?per_page=30"
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+            for u in data:
+                login = u.get("login")
+                if login and login not in supporters:
+                    supporters[login] = {
+                        "login": login,
+                        "avatar_url": u.get("avatar_url", f"https://github.com/{login}.png"),
+                        "url": u.get("html_url", f"https://github.com/{login}"),
+                    }
+    except Exception as exc:
+        logger.warning("[WARNING] Failed to fetch followers: %s", exc)
+
+    # 2. Fetch Stargazers from top public repos
+    repos = ["best_shizuku_apps_for_android_no_root", "awesome-android-app-repositories", "OpenDiscover", "krishna3163"]
+    for repo in repos:
+        try:
+            url = f"https://api.github.com/repos/{username}/{repo}/stargazers?per_page=15"
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                for s in data:
+                    login = s.get("login") if isinstance(s, dict) and "login" in s else s.get("user", {}).get("login")
+                    avatar = s.get("avatar_url") if isinstance(s, dict) and "avatar_url" in s else s.get("user", {}).get("avatar_url")
+                    if login and login not in supporters:
+                        supporters[login] = {
+                            "login": login,
+                            "avatar_url": avatar or f"https://github.com/{login}.png",
+                            "url": f"https://github.com/{login}",
+                        }
+        except Exception as exc:
+            logger.warning("[WARNING] Failed to fetch stargazers for %s: %s", repo, exc)
+
+    return list(supporters.values())[:limit]
+
+
+def generate_community_wall_section(supporters: list[dict]) -> str:
+    """Generate interactive avatar wall thanking stargazers and followers."""
+    if not supporters:
+        return (
+            '<div align="center">\n'
+            '  <p>💖 <i>A huge thank you to everyone who stars my repositories, follows my journey, and supports open source!</i></p>\n'
+            '</div>'
+        )
+
+    lines = []
+    lines.append('<div align="center">')
+    lines.append('  <p>💖 <b>A heartfelt thank you to all the amazing developers, stargazers, and followers supporting my open-source work!</b></p>')
+    lines.append('  <br>')
+    lines.append('  <p>')
+
+    for s in supporters:
+        login = s["login"]
+        avatar = s["avatar_url"]
+        url = s["url"]
+        lines.append(f'    <a href="{url}" target="_blank" title="Thank you @{login}!">\n      <img src="{avatar}" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@{login}" />\n    </a>')
+
+    lines.append('  </p>')
+    lines.append('  <br>')
+    lines.append('  <p><sub>⭐ <i>Star any of my repositories or hit follow to be automatically featured on this wall!</i></sub></p>')
+    lines.append('</div>')
+
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# 4. Top Repositories & Star Count Showcase
 # ---------------------------------------------------------------------------
 
 
@@ -486,6 +569,12 @@ def update_profile_readme() -> bool:
     # 6. Dynamic Greeting
     greeting_md = get_dynamic_greeting()
     content = replace_marker(content, "DYNAMIC_GREETING", greeting_md)
+
+    # 7. Community Wall (Stargazers & Followers)
+    logger.info("[INFO] Fetching community supporters & stargazers...")
+    supporters = fetch_community_supporters()
+    community_md = generate_community_wall_section(supporters)
+    content = replace_marker(content, "COMMUNITY_WALL", community_md)
 
     README_PATH.write_text(content, encoding="utf-8")
     logger.info("[INFO] Successfully updated README.md with all dynamic profile automations!")
