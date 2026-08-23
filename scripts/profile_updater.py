@@ -371,7 +371,7 @@ def generate_community_wall_section(stargazers: list[dict], followers: list[dict
         lines.append('  </p>')
         lines.append('  <br>')
 
-    # 2. Followers Wall (Purple Border)
+    # 2. Followers Wall (Purple Border - Medium Size)
     if followers:
         lines.append(f'  <h4><b>👥 Community Followers ({len(followers)}+ Developers)</b></h4>')
         lines.append('  <p>')
@@ -379,7 +379,7 @@ def generate_community_wall_section(stargazers: list[dict], followers: list[dict
             login = f["login"]
             avatar = f["avatar_url"]
             url = f["url"]
-            lines.append(f'    <a href="{url}" target="_blank" title="👥 Follower @{login}">\n      <img src="{avatar}" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@{login}" />\n    </a>')
+            lines.append(f'    <a href="{url}" target="_blank" title="👥 Follower @{login}">\n      <img src="{avatar}" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@{login}" />\n    </a>')
         lines.append('  </p>')
         lines.append('  <br>')
 

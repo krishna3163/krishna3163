@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 12:09 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 12:14 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -523,61 +523,61 @@
   <h4><b>👥 Community Followers (19+ Developers)</b></h4>
   <p>
     <a href="https://github.com/Kos-M" target="_blank" title="👥 Follower @Kos-M">
-      <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Kos-M" />
+      <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Kos-M" />
     </a>
     <a href="https://github.com/Immanuel9567" target="_blank" title="👥 Follower @Immanuel9567">
-      <img src="https://avatars.githubusercontent.com/u/71874885?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Immanuel9567" />
+      <img src="https://avatars.githubusercontent.com/u/71874885?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Immanuel9567" />
     </a>
     <a href="https://github.com/theBFGuk" target="_blank" title="👥 Follower @theBFGuk">
-      <img src="https://avatars.githubusercontent.com/u/107422467?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@theBFGuk" />
+      <img src="https://avatars.githubusercontent.com/u/107422467?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@theBFGuk" />
     </a>
     <a href="https://github.com/AhmedDabish" target="_blank" title="👥 Follower @AhmedDabish">
-      <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@AhmedDabish" />
+      <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@AhmedDabish" />
     </a>
     <a href="https://github.com/rahuloraj" target="_blank" title="👥 Follower @rahuloraj">
-      <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@rahuloraj" />
+      <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@rahuloraj" />
     </a>
     <a href="https://github.com/Jabaos" target="_blank" title="👥 Follower @Jabaos">
-      <img src="https://avatars.githubusercontent.com/u/120006442?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Jabaos" />
+      <img src="https://avatars.githubusercontent.com/u/120006442?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Jabaos" />
     </a>
     <a href="https://github.com/S4IL21" target="_blank" title="👥 Follower @S4IL21">
-      <img src="https://avatars.githubusercontent.com/u/126200245?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@S4IL21" />
+      <img src="https://avatars.githubusercontent.com/u/126200245?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@S4IL21" />
     </a>
     <a href="https://github.com/ApeNFTLover" target="_blank" title="👥 Follower @ApeNFTLover">
-      <img src="https://avatars.githubusercontent.com/u/131627530?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@ApeNFTLover" />
+      <img src="https://avatars.githubusercontent.com/u/131627530?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@ApeNFTLover" />
     </a>
     <a href="https://github.com/Singh-Ujjawal" target="_blank" title="👥 Follower @Singh-Ujjawal">
-      <img src="https://avatars.githubusercontent.com/u/160817499?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Singh-Ujjawal" />
+      <img src="https://avatars.githubusercontent.com/u/160817499?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Singh-Ujjawal" />
     </a>
     <a href="https://github.com/Hare-Ram-Yadav" target="_blank" title="👥 Follower @Hare-Ram-Yadav">
-      <img src="https://avatars.githubusercontent.com/u/194274692?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Hare-Ram-Yadav" />
+      <img src="https://avatars.githubusercontent.com/u/194274692?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Hare-Ram-Yadav" />
     </a>
     <a href="https://github.com/Gourav-kr-11" target="_blank" title="👥 Follower @Gourav-kr-11">
-      <img src="https://avatars.githubusercontent.com/u/194532793?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Gourav-kr-11" />
+      <img src="https://avatars.githubusercontent.com/u/194532793?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Gourav-kr-11" />
     </a>
     <a href="https://github.com/Princekumar60090" target="_blank" title="👥 Follower @Princekumar60090">
-      <img src="https://avatars.githubusercontent.com/u/209690435?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Princekumar60090" />
+      <img src="https://avatars.githubusercontent.com/u/209690435?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Princekumar60090" />
     </a>
     <a href="https://github.com/jaydev55678" target="_blank" title="👥 Follower @jaydev55678">
-      <img src="https://avatars.githubusercontent.com/u/231234419?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@jaydev55678" />
+      <img src="https://avatars.githubusercontent.com/u/231234419?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@jaydev55678" />
     </a>
     <a href="https://github.com/DSQ2x" target="_blank" title="👥 Follower @DSQ2x">
-      <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@DSQ2x" />
+      <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@DSQ2x" />
     </a>
     <a href="https://github.com/Saqquibkhan00" target="_blank" title="👥 Follower @Saqquibkhan00">
-      <img src="https://avatars.githubusercontent.com/u/245874007?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@Saqquibkhan00" />
+      <img src="https://avatars.githubusercontent.com/u/245874007?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Saqquibkhan00" />
     </a>
     <a href="https://github.com/romuluskopernikus13-cell" target="_blank" title="👥 Follower @romuluskopernikus13-cell">
-      <img src="https://avatars.githubusercontent.com/u/261547491?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@romuluskopernikus13-cell" />
+      <img src="https://avatars.githubusercontent.com/u/261547491?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@romuluskopernikus13-cell" />
     </a>
     <a href="https://github.com/piyush3109" target="_blank" title="👥 Follower @piyush3109">
-      <img src="https://avatars.githubusercontent.com/u/263565468?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@piyush3109" />
+      <img src="https://avatars.githubusercontent.com/u/263565468?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@piyush3109" />
     </a>
     <a href="https://github.com/2303630100089-lang" target="_blank" title="👥 Follower @2303630100089-lang">
-      <img src="https://avatars.githubusercontent.com/u/266461784?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@2303630100089-lang" />
+      <img src="https://avatars.githubusercontent.com/u/266461784?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@2303630100089-lang" />
     </a>
     <a href="https://github.com/ancaferro" target="_blank" title="👥 Follower @ancaferro">
-      <img src="https://avatars.githubusercontent.com/u/287352285?v=4" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@ancaferro" />
+      <img src="https://avatars.githubusercontent.com/u/287352285?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@ancaferro" />
     </a>
   </p>
   <br>
