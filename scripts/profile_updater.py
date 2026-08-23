@@ -280,82 +280,109 @@ def generate_recent_activity_section(activities: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------------------
-# 3. Community Wall & Stargazers / Followers Showcase
+# 3. Community Wall: Stargazers & Followers Showcase
 # ---------------------------------------------------------------------------
 
 
-def fetch_community_supporters(username: str = GITHUB_USERNAME, limit: int = 24) -> list[dict]:
-    """Fetch stargazers, followers, and supporters to display on the Community Wall."""
-    supporters: dict[str, dict] = {}
+def fetch_stargazers(username: str = GITHUB_USERNAME, limit: int = 40) -> list[dict]:
+    """Fetch stargazers across user's public repositories."""
+    stargazers: dict[str, dict] = {}
+    headers = {"User-Agent": "Mozilla/5.0", "Accept": "application/vnd.github.v3.star+json"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
 
+    repos = [
+        "best_shizuku_apps_for_android_no_root",
+        "awesome-android-app-repositories",
+        "OpenDiscover",
+        "GooglePhoto_Alternative",
+        "best-root-apps-for-android",
+        "krishna3163",
+    ]
+
+    for repo in repos:
+        try:
+            url = f"https://api.github.com/repos/{username}/{repo}/stargazers?per_page=30"
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=6) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                for s in data:
+                    user_data = s.get("user", s) if isinstance(s, dict) else {}
+                    login = user_data.get("login")
+                    avatar = user_data.get("avatar_url", f"https://github.com/{login}.png")
+                    if login and login not in stargazers and login != username:
+                        stargazers[login] = {
+                            "login": login,
+                            "avatar_url": avatar,
+                            "url": f"https://github.com/{login}",
+                            "repo": repo,
+                        }
+        except Exception as exc:
+            logger.warning("[WARNING] Failed to fetch stargazers for %s: %s", repo, exc)
+
+    return list(stargazers.values())[:limit]
+
+
+def fetch_followers(username: str = GITHUB_USERNAME, limit: int = 40) -> list[dict]:
+    """Fetch public followers."""
+    followers: list[dict] = []
     headers = {"User-Agent": "Mozilla/5.0"}
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    # 1. Fetch Followers
     try:
-        url = f"https://api.github.com/users/{username}/followers?per_page=30"
+        url = f"https://api.github.com/users/{username}/followers?per_page=50"
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=8) as resp:
             data = json.loads(resp.read().decode("utf-8"))
             for u in data:
                 login = u.get("login")
-                if login and login not in supporters:
-                    supporters[login] = {
+                if login:
+                    followers.append({
                         "login": login,
                         "avatar_url": u.get("avatar_url", f"https://github.com/{login}.png"),
                         "url": u.get("html_url", f"https://github.com/{login}"),
-                    }
+                    })
     except Exception as exc:
         logger.warning("[WARNING] Failed to fetch followers: %s", exc)
 
-    # 2. Fetch Stargazers from top public repos
-    repos = ["best_shizuku_apps_for_android_no_root", "awesome-android-app-repositories", "OpenDiscover", "krishna3163"]
-    for repo in repos:
-        try:
-            url = f"https://api.github.com/repos/{username}/{repo}/stargazers?per_page=15"
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=8) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
-                for s in data:
-                    login = s.get("login") if isinstance(s, dict) and "login" in s else s.get("user", {}).get("login")
-                    avatar = s.get("avatar_url") if isinstance(s, dict) and "avatar_url" in s else s.get("user", {}).get("avatar_url")
-                    if login and login not in supporters:
-                        supporters[login] = {
-                            "login": login,
-                            "avatar_url": avatar or f"https://github.com/{login}.png",
-                            "url": f"https://github.com/{login}",
-                        }
-        except Exception as exc:
-            logger.warning("[WARNING] Failed to fetch stargazers for %s: %s", repo, exc)
-
-    return list(supporters.values())[:limit]
+    return followers[:limit]
 
 
-def generate_community_wall_section(supporters: list[dict]) -> str:
-    """Generate interactive avatar wall thanking stargazers and followers."""
-    if not supporters:
-        return (
-            '<div align="center">\n'
-            '  <p>💖 <i>A huge thank you to everyone who stars my repositories, follows my journey, and supports open source!</i></p>\n'
-            '</div>'
-        )
-
+def generate_community_wall_section(stargazers: list[dict], followers: list[dict]) -> str:
+    """Generate compact interactive avatar walls for Stargazers and Followers."""
     lines = []
     lines.append('<div align="center">')
-    lines.append('  <p>💖 <b>A heartfelt thank you to all the amazing developers, stargazers, and followers supporting my open-source work!</b></p>')
+    lines.append('  <p>💖 <b>A heartfelt thank you to everyone who stars my repositories, follows my journey, and supports open source!</b></p>')
     lines.append('  <br>')
-    lines.append('  <p>')
 
-    for s in supporters:
-        login = s["login"]
-        avatar = s["avatar_url"]
-        url = s["url"]
-        lines.append(f'    <a href="{url}" target="_blank" title="Thank you @{login}!">\n      <img src="{avatar}" width="46" height="46" style="border-radius: 50%; margin: 3px; border: 2px solid #8b5cf6;" alt="@{login}" />\n    </a>')
+    # 1. Stargazers Wall (Gold Border)
+    if stargazers:
+        lines.append(f'  <h4><b>⭐ Stargazers Wall of Fame ({len(stargazers)}+ Supporters)</b></h4>')
+        lines.append('  <p>')
+        for s in stargazers:
+            login = s["login"]
+            avatar = s["avatar_url"]
+            url = s["url"]
+            repo = s.get("repo", "projects")
+            lines.append(f'    <a href="{url}" target="_blank" title="⭐ @{login} starred {repo}">\n      <img src="{avatar}" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #FFA116;" alt="@{login}" />\n    </a>')
+        lines.append('  </p>')
+        lines.append('  <br>')
 
-    lines.append('  </p>')
-    lines.append('  <br>')
+    # 2. Followers Wall (Purple Border)
+    if followers:
+        lines.append(f'  <h4><b>👥 Community Followers ({len(followers)}+ Developers)</b></h4>')
+        lines.append('  <p>')
+        for f in followers:
+            login = f["login"]
+            avatar = f["avatar_url"]
+            url = f["url"]
+            lines.append(f'    <a href="{url}" target="_blank" title="👥 Follower @{login}">\n      <img src="{avatar}" width="36" height="36" style="border-radius: 50%; margin: 2px; border: 1.5px solid #8B5CF6;" alt="@{login}" />\n    </a>')
+        lines.append('  </p>')
+        lines.append('  <br>')
+
     lines.append('  <p><sub>⭐ <i>Star any of my repositories or hit follow to be automatically featured on this wall!</i></sub></p>')
     lines.append('</div>')
 
@@ -571,9 +598,10 @@ def update_profile_readme() -> bool:
     content = replace_marker(content, "DYNAMIC_GREETING", greeting_md)
 
     # 7. Community Wall (Stargazers & Followers)
-    logger.info("[INFO] Fetching community supporters & stargazers...")
-    supporters = fetch_community_supporters()
-    community_md = generate_community_wall_section(supporters)
+    logger.info("[INFO] Fetching community stargazers & followers...")
+    stargazers = fetch_stargazers()
+    followers = fetch_followers()
+    community_md = generate_community_wall_section(stargazers, followers)
     content = replace_marker(content, "COMMUNITY_WALL", community_md)
 
     README_PATH.write_text(content, encoding="utf-8")

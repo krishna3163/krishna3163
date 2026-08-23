@@ -23,6 +23,8 @@ jobs:
           python-version: "3.12"
 
       - name: Update Resume Metadata
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/profile_updater.py
 
       - name: Commit and push
