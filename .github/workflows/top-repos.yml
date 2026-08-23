@@ -1,0 +1,39 @@
+name: Sync Top Repositories
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # Daily 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  top_repos:
+    name: Sync Top Projects & Stars
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch Top Repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/profile_updater.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(repos): update top repositories showcase [skip ci]"
+            for i in {1..5}; do
+              git pull --rebase origin main && git push && break || sleep 3
+            done
+          fi

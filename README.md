@@ -41,6 +41,23 @@
     <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
   </p>
 
+  <br>
+
+  <!-- DYNAMIC_GREETING:START -->
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `23 August 2026, 11:42 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+<!-- DYNAMIC_GREETING:END -->
+
+  <br>
+
+  <!-- RESUME_INFO:START -->
+<div align="center">
+  <a href="https://raw.githubusercontent.com/krishna3163/krishna3163/main/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume_PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <p><sub>📄 <b>File:</b> CV.pdf (88.6 KB) &nbsp;|&nbsp; 🗓️ <b>Updated:</b> August 2026 &nbsp;|&nbsp; 🔒 <b>SHA:</b> <code>68529d17</code></sub></p>
+</div>
+<!-- RESUME_INFO:END -->
+
 </div>
 
 <br><br>
@@ -185,10 +202,47 @@
 <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/Skills_Animation_Dark.gif" alt="Skills Animation" width="98%" />
 </div>
 
----
+<div align="center">
+<h2 align='center'><strong>🌟 Active Open-Source Projects & Repositories</strong></h2>
+</div>
+
+<br>
+
+<!-- TOP_REPOS:START -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
+        <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
+        <p>⭐ <b>81</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
+        <p>Open source project by Krishna Kumar</p>
+        <p>⭐ <b>39</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
+        <p>Open source project by Krishna Kumar</p>
+        <p>⭐ <b>34</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
+        <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
+        <p>⭐ <b>3</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- TOP_REPOS:END -->
+
+<br><br>
 
 <div align="center">
-<h2 align='center'><strong>🚀 Featured Projects Showcase</strong></h2>
+<h2 align='center'><strong>🚀 Featured Full-Stack Projects Showcase</strong></h2>
 </div>
 
 <br>
@@ -303,6 +357,29 @@
   </table>
 </div>
 
+<br>
+
+<!-- LEETCODE:START -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="35%" align="center" valign="middle">
+        <a href="https://leetcode.com/u/krishna0858/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+        <h3><b>🧩 225 Problems Solved</b></h3>
+        <p>🏆 <b>Global Rank:</b> <code>#726,123</code></p>
+      </td>
+      <td width="65%" valign="middle">
+        <p>🟢 <b>Easy:</b> <code>93</code> solved</p>
+        <p>🟡 <b>Medium:</b> <code>100</code> solved</p>
+        <p>🔴 <b>Hard:</b> <code>32</code> solved</p>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- LEETCODE:END -->
+
 ---
 
 <div align="center">
@@ -363,6 +440,21 @@
 
 <br><br>
 
+<div align="center">
+<h3 align='center'><strong>⚡ Live Recent Activity Stream</strong></h3>
+</div>
+
+<!-- RECENT_ACTIVITY:START -->
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+- 🔨 Pushed **0 commit(s)** to [`krishna3163/awesome-android-app-repositories`](https://github.com/krishna3163/awesome-android-app-repositories) — _Update code_ (`2026-08-23`)
+<!-- RECENT_ACTIVITY:END -->
+
+<br><br>
+
 <!-- Snake Contribution Game -->
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
@@ -390,7 +482,9 @@
 
 <br><br>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<!-- DAILY_QUOTE:START -->
+> *“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics.”* — **Norman Ralph Augustine**
+<!-- DAILY_QUOTE:END -->
 
 <br>
 

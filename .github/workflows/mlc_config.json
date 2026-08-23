@@ -1,0 +1,23 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    },
+    {
+      "pattern": "^https://wa.me/"
+    },
+    {
+      "pattern": "^https://in.linkedin.com/"
+    },
+    {
+      "pattern": "^https://komarev.com/"
+    },
+    {
+      "pattern": "^https://github-profile-summary-cards.vercel.app/"
+    }
+  ],
+  "timeout": "10s",
+  "retryOn429": true,
+  "retryCount": 2,
+  "fallbackRetryDelay": "3s"
+}
