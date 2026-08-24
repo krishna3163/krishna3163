@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `24 August 2026, 06:07 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `24 August 2026, 06:17 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -462,6 +462,12 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/baairon/torlink"><code>baairon/torlink</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
+      <td align="center"><code>2026-08-24</code></td>
+    </tr>
+    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/GooglePhoto_Alternative"><code>krishna3163/GooglePhoto_Alternative</code></a></td>
       <td align="left"><i>Update codebase</i></td>
@@ -471,12 +477,6 @@
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
       <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-08-23</code></td>
-    </tr>
-    <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/krishna3163/krishna3163"><code>krishna3163/krishna3163</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
       <td align="center"><code>2026-08-23</code></td>
     </tr>
   </table>
