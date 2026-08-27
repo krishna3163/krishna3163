@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `27 August 2026, 01:42 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `28 August 2026, 12:14 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -215,7 +215,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
         <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>85</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>88</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
@@ -232,7 +232,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
         <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
-        <p>⭐ <b>7</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>9</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
     </tr>
   </table>
@@ -368,7 +368,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 225 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#728,444</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#728,965</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>93</code> solved</p>
@@ -508,7 +508,7 @@
 <div align="center">
   <p>💖 <b>A heartfelt thank you to everyone who stars my repositories, follows my journey, and supports open source!</b></p>
   <br>
-  <h4><b>👥 Community Followers (20+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (21+ Developers)</b></h4>
   <p>
     <a href="https://github.com/Kos-M" target="_blank" title="👥 Follower @Kos-M">
       <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Kos-M" />
@@ -548,6 +548,9 @@
     </a>
     <a href="https://github.com/jaydev55678" target="_blank" title="👥 Follower @jaydev55678">
       <img src="https://avatars.githubusercontent.com/u/231234419?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@jaydev55678" />
+    </a>
+    <a href="https://github.com/yumiaura" target="_blank" title="👥 Follower @yumiaura">
+      <img src="https://avatars.githubusercontent.com/u/235065808?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@yumiaura" />
     </a>
     <a href="https://github.com/DSQ2x" target="_blank" title="👥 Follower @DSQ2x">
       <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@DSQ2x" />
