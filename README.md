@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `29 August 2026, 11:45 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `29 August 2026, 04:09 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -368,7 +368,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 225 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#729,484</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#729,902</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>93</code> solved</p>
@@ -460,6 +460,12 @@
       <th align="left" width="40%">Repository</th>
       <th align="left" width="26%">Summary</th>
       <th align="center" width="12%">Date</th>
+    </tr>
+    <tr>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/tt-a1i/archify"><code>tt-a1i/archify</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
+      <td align="center"><code>2026-08-29</code></td>
     </tr>
     <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
