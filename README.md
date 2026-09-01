@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `01 September 2026, 05:04 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `01 September 2026, 08:37 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -54,7 +54,7 @@
   <a href="https://raw.githubusercontent.com/krishna3163/krishna3163/main/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume_PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <p><sub>📄 <b>File:</b> CV.pdf (88.6 KB) &nbsp;|&nbsp; 🗓️ <b>Updated:</b> August 2026 &nbsp;|&nbsp; 🔒 <b>SHA:</b> <code>68529d17</code></sub></p>
+  <p><sub>📄 <b>File:</b> CV.pdf (88.6 KB) &nbsp;|&nbsp; 🗓️ <b>Updated:</b> September 2026 &nbsp;|&nbsp; 🔒 <b>SHA:</b> <code>68529d17</code></sub></p>
 </div>
 <!-- RESUME_INFO:END -->
 
@@ -640,7 +640,7 @@
 <br><br>
 
 <!-- DAILY_QUOTE:START -->
-> *“Java is to JavaScript what car is to Carpet.”* — **Chris Heilmann**
+> *“Knowledge is power, but enthusiasm pulls the switch.”* — **Ivern Ball**
 <!-- DAILY_QUOTE:END -->
 
 <br>
