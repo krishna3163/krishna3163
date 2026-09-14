@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `14 September 2026, 02:58 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `14 September 2026, 05:37 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -368,7 +368,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 227 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#729,969</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#730,432</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>94</code> solved</p>
@@ -520,7 +520,7 @@
 <div align="center">
   <p>💖 <b>A heartfelt thank you to everyone who stars my repositories, follows my journey, and supports open source!</b></p>
   <br>
-  <h4><b>👥 Community Followers (22+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (21+ Developers)</b></h4>
   <p>
     <a href="https://github.com/Paavo00" target="_blank" title="👥 Follower @Paavo00">
       <img src="https://avatars.githubusercontent.com/u/44634229?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Paavo00" />
@@ -566,9 +566,6 @@
     </a>
     <a href="https://github.com/jaydev55678" target="_blank" title="👥 Follower @jaydev55678">
       <img src="https://avatars.githubusercontent.com/u/231234419?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@jaydev55678" />
-    </a>
-    <a href="https://github.com/yumiaura" target="_blank" title="👥 Follower @yumiaura">
-      <img src="https://avatars.githubusercontent.com/u/235065808?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@yumiaura" />
     </a>
     <a href="https://github.com/DSQ2x" target="_blank" title="👥 Follower @DSQ2x">
       <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@DSQ2x" />
