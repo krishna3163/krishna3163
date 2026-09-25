@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `25 September 2026, 04:26 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `25 September 2026, 08:31 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -652,7 +652,7 @@
 <br><br>
 
 <!-- DAILY_QUOTE:START -->
-> *“Java is to JavaScript what car is to Carpet.”* — **Chris Heilmann**
+> *“Knowledge is power, but enthusiasm pulls the switch.”* — **Ivern Ball**
 <!-- DAILY_QUOTE:END -->
 
 <br>
