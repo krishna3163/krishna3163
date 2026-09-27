@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `27 September 2026, 03:48 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `27 September 2026, 08:40 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -649,7 +649,7 @@
 <br><br>
 
 <!-- DAILY_QUOTE:START -->
-> *“Simplicity is prerequisite for reliability.”* — **Edsger W. Dijkstra**
+> *“Talk is cheap. Show me the code.”* — **Linus Torvalds**
 <!-- DAILY_QUOTE:END -->
 
 <br>
