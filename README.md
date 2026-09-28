@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `28 September 2026, 06:42 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `28 September 2026, 10:04 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -520,16 +520,13 @@
 <div align="center">
   <p>💖 <b>A heartfelt thank you to everyone who stars my repositories, follows my journey, and supports open source!</b></p>
   <br>
-  <h4><b>👥 Community Followers (23+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (22+ Developers)</b></h4>
   <p>
     <a href="https://github.com/Paavo00" target="_blank" title="👥 Follower @Paavo00">
       <img src="https://avatars.githubusercontent.com/u/44634229?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Paavo00" />
     </a>
     <a href="https://github.com/Kos-M" target="_blank" title="👥 Follower @Kos-M">
       <img src="https://avatars.githubusercontent.com/u/46938390?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Kos-M" />
-    </a>
-    <a href="https://github.com/BEPb" target="_blank" title="👥 Follower @BEPb">
-      <img src="https://avatars.githubusercontent.com/u/57312267?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@BEPb" />
     </a>
     <a href="https://github.com/Immanuel9567" target="_blank" title="👥 Follower @Immanuel9567">
       <img src="https://avatars.githubusercontent.com/u/71874885?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Immanuel9567" />
