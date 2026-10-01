@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `01 October 2026, 04:53 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `01 October 2026, 09:09 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -54,7 +54,7 @@
   <a href="https://raw.githubusercontent.com/krishna3163/krishna3163/main/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume_PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <p><sub>📄 <b>File:</b> CV.pdf (88.6 KB) &nbsp;|&nbsp; 🗓️ <b>Updated:</b> September 2026 &nbsp;|&nbsp; 🔒 <b>SHA:</b> <code>68529d17</code></sub></p>
+  <p><sub>📄 <b>File:</b> CV.pdf (88.6 KB) &nbsp;|&nbsp; 🗓️ <b>Updated:</b> October 2026 &nbsp;|&nbsp; 🔒 <b>SHA:</b> <code>68529d17</code></sub></p>
 </div>
 <!-- RESUME_INFO:END -->
 
@@ -652,7 +652,7 @@
 <br><br>
 
 <!-- DAILY_QUOTE:START -->
-> *“Before software can be reusable it first has to be usable.”* — **Ralph Johnson**
+> *“There are only two hard things in Computer Science: cache invalidation and naming things.”* — **Phil Karlton**
 <!-- DAILY_QUOTE:END -->
 
 <br>
