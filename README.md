@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `10 October 2026, 05:34 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `10 October 2026, 07:49 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -462,31 +462,31 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
-      <td align="left">🔀 Opened PR #4</td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Pull request contribution</i></td>
-      <td align="center"><code>2026-10-10</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔀 Opened PR #3</td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Pull request contribution</i></td>
-      <td align="center"><code>2026-10-10</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔀 Merged PR #2</td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Pull request contribution</i></td>
-      <td align="center"><code>2026-10-10</code></td>
-    </tr>
-    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-10-10</code></td>
     </tr>
     <tr>
-      <td align="left">🔀 Opened PR #2</td>
+      <td align="left">🔀 Merged PR #6</td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Pull request contribution</i></td>
+      <td align="center"><code>2026-10-10</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔀 Opened PR #6</td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Pull request contribution</i></td>
+      <td align="center"><code>2026-10-10</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔀 Merged PR #5</td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Pull request contribution</i></td>
+      <td align="center"><code>2026-10-10</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔀 Merged PR #4</td>
       <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
       <td align="left"><i>Pull request contribution</i></td>
       <td align="center"><code>2026-10-10</code></td>
