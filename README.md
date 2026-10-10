@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `10 October 2026, 03:52 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `10 October 2026, 05:34 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -232,7 +232,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
         <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
-        <p>⭐ <b>31</b> &nbsp;|&nbsp; 🍴 <b>2</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>31</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
     </tr>
   </table>
@@ -368,7 +368,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 227 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#742,777</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#743,144</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>94</code> solved</p>
