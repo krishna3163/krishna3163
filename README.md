@@ -44,7 +44,7 @@
   <br>
 
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `12 October 2026, 03:07 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `12 October 2026, 04:53 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -465,6 +465,12 @@
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
       <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-10</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-10-11</code></td>
     </tr>
     <tr>
@@ -483,12 +489,6 @@
       <td align="left">🔀 Opened PR #10</td>
       <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
       <td align="left"><i>Pull request contribution</i></td>
-      <td align="center"><code>2026-10-11</code></td>
-    </tr>
-    <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
       <td align="center"><code>2026-10-11</code></td>
     </tr>
   </table>
