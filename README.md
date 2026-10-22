@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `22 October 2026, 11:44 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `22 October 2026, 11:52 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -68,43 +68,28 @@
 <br><br>
 
 <!-- ============================================================ -->
-<!-- 🧑‍💻 ABOUT ME & CORE ARCHITECTURAL PILLARS (BENTO)              -->
+<!-- 🧑‍💻 ABOUT ME & CORE ARCHITECTURAL PILLARS                      -->
 <!-- ============================================================ -->
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6); padding: 22px;">
-      <h3>⚡ About Krishna Kumar</h3>
-      <p>I am a <b>Computer Science &amp; Engineering undergraduate</b> at Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow, '27) specializing in <b>Java Backend Architecture</b>, <b>Spring Boot Microservices</b>, and <b>Enterprise AI Integration</b>.</p>
-      <br>
-      <p><b>🎯 What I Do Best:</b></p>
-      <ul>
-        <li><b>Enterprise REST APIs:</b> Designing high-throughput, stateless backends with Spring Boot 3, Spring Data JPA, and PostgreSQL.</li>
-        <li><b>AI &amp; LLM Workflows:</b> Integrating Google Gemini AI for intelligent triage, conversational assistance, and context-aware responses.</li>
-        <li><b>Algorithmic Rigor:</b> Solved <b>100+ LeetCode problems</b> in Java focusing on optimal Big-O time and space complexity.</li>
-        <li><b>Open Source Impact:</b> Author and maintainer of open-source tooling suites with <b>250+ community stars</b>.</li>
-      </ul>
-      <br>
-      <p>📍 <i>Lucknow, Uttar Pradesh, India</i> &nbsp;|&nbsp; 💼 <i>Available for SDE &amp; Backend Internships</i></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6); padding: 22px;">
-      <h3>🏛️ Core Engineering Pillars</h3>
-      <table width="100%" border="0" cellspacing="0" cellpadding="6">
-        <tr>
-          <td valign="top"><b>⚙️ Backend Microservices</b><br><sub>Decoupled domains, Spring Security 6 stateless JWT, JPA query optimization, and RFC-7807 global exception handling.</sub></td>
-        </tr>
-        <tr>
-          <td valign="top"><b>🧠 AI &amp; LLM Integration</b><br><sub>Connecting LLM endpoints (Google Gemini API) to Java backend pipelines for patient triage, query extraction, and automation.</sub></td>
-        </tr>
-        <tr>
-          <td valign="top"><b>🧩 DSA &amp; Algorithmic Discipline</b><br><sub>Strong foundations in Trees, Graphs, Dynamic Programming, Arrays, and Recursion with clean, maintainable Java code.</sub></td>
-        </tr>
-        <tr>
-          <td valign="top"><b>📱 Mobile &amp; System Tooling</b><br><sub>Android SDK development, background services, BroadcastReceivers, and system optimization utilities.</sub></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+### ⚡ About Me
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering @ Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow, '27)
+- 📍 **Location:** Lucknow, Uttar Pradesh, India 🇮🇳
+- ⚙️ **Core Specialization:** Java Backend Architecture, Spring Boot 3 Microservices, RESTful API Design, and Relational Database Optimization (PostgreSQL)
+- 🧠 **AI & LLM Integration:** Building intelligent enterprise workflows with Google Gemini API for medical triage and automated assistance
+- 🧩 **Algorithmic Discipline:** Solved **100+ LeetCode problems** in Java with strict Big-O time and space complexity standards
+- 🌟 **Open-Source Impact:** Creator and maintainer of open-source tooling suites with **250+ community stars**
+- 🎯 **Target Roles:** Java Backend Developer Intern • Software Engineering Intern • AI/ML Developer Intern
+
+<br>
+
+### 🏛️ Core Engineering Pillars
+
+| 🏛️ Pillar | 🚀 Technical Focus | 🛠️ Core Technologies |
+| :--- | :--- | :--- |
+| **Backend Microservices** | Modular service decoupling, Spring Security 6 stateless JWT, and RFC-7807 error handling | `Java 17+` `Spring Boot 3` `Spring Security` `JPA` `PostgreSQL` |
+| **AI & LLM Integration** | Enterprise workflows with Google Gemini API for automated symptom triage & smart assistants | `Google Gemini API` `Spring RestTemplate` `Prompt Engineering` |
+| **Algorithmic Rigor** | 100+ LeetCode problems solved with strict Big-O time and space optimization | `Data Structures` `Algorithms` `JUnit` `Java Collections` |
+| **Mobile & Tooling** | Android SDK background services, BroadcastReceivers, and system utilities | `Android SDK` `Java` `Shizuku` `Wireless ADB` `Linux` |
 
 <br><br>
 
@@ -112,24 +97,24 @@
 <!-- 🎓 ACADEMIC FOUNDATION                                       -->
 <!-- ============================================================ -->
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6);">
+  <h2>🎓 Academic Foundation</h2>
+  <table width="100%">
     <tr>
-      <td width="60%" valign="top" style="padding: 24px;">
-        <h2>🎓 Academic Journey</h2>
-        <h3>🏛️ Dr. A.P.J. Abdul Kalam Technical University (AKTU)</h3>
+      <td width="60%" valign="top">
+        <h3>Dr. A.P.J. Abdul Kalam Technical University (AKTU)</h3>
         <p><b>Bachelor of Technology (B.Tech) in Computer Science &amp; Engineering</b></p>
         <p>🗓️ <i>August 2023 – August 2027</i> &nbsp;|&nbsp; 📍 <i>Lucknow, Uttar Pradesh, India</i></p>
         <br>
         <p><b>📚 Core Computer Science Coursework:</b></p>
         <ul>
-          <li><b>Data Structures &amp; Algorithms (DSA)</b> — Asymptotic Analysis, Advanced Trees, Graphs &amp; DP</li>
+          <li><b>Data Structures &amp; Algorithms (DSA)</b> — Trees, Graphs, Dynamic Programming &amp; Asymptotic Analysis</li>
           <li><b>Database Management Systems (DBMS)</b> — Relational Normalization, Indexing, ACID &amp; SQL</li>
-          <li><b>Object-Oriented Programming (OOP)</b> — Design Patterns, Encapsulation, SOLID Principles</li>
-          <li><b>Operating Systems &amp; Networks</b> — Concurrency, Memory Paging, Sockets &amp; TCP/IP</li>
+          <li><b>Object-Oriented Programming (OOP)</b> — SOLID Principles, Design Patterns &amp; Concurrency</li>
+          <li><b>Operating Systems &amp; Networks</b> — Process Scheduling, Threading, Memory Paging &amp; TCP/IP</li>
         </ul>
       </td>
-      <td width="40%" align="center" valign="middle" style="padding: 24px;">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Campus Sunset" />
+      <td width="40%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" alt="Campus Sunset" />
       </td>
     </tr>
   </table>
@@ -145,7 +130,7 @@
   <p><i>Curated toolset honed across production architectures, backend microservices, and competitive problem solving.</i></p>
   <br>
 
-  <table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <table width="100%">
     <tr>
       <td width="28%"><strong>💻 Programming Languages</strong></td>
       <td>
@@ -205,112 +190,75 @@
 <br><br>
 
 <!-- ============================================================ -->
-<!-- 🚀 FLAGSHIP PROJECTS SHOWCASE (THE CROWN JEWELS)             -->
+<!-- 🚀 FLAGSHIP PROJECTS SHOWCASE                                -->
 <!-- ============================================================ -->
 <div align="center">
   <h2>🚀 Flagship Production &amp; Open-Source Projects</h2>
   <p><i>Real-world enterprise backend architectures, intelligent AI systems, and popular mobile tooling.</i></p>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" alt="AI Healthcare System" />
+        <br><br>
+        <b>🏥 AI Healthcare &amp; Hospital Management System</b>
+        <br>
+        <sub><code>Java 17</code> • <code>Spring Boot 3</code> • <code>Microservices</code> • <code>PostgreSQL</code> • <code>Gemini AI</code></sub>
+        <ul align="left">
+          <li><b>Microservices Architecture:</b> Decoupled services for auth, doctor directories, and queue bookings.</li>
+          <li><b>Doctor Discovery:</b> Multi-parameter filtering by specialization, location, and gender.</li>
+          <li><b>Gemini AI Triage:</b> Integrated LLM REST endpoints for automated symptom intake and guidance.</li>
+          <li><b>Security &amp; Validation:</b> Spring Security validation filters across all REST controllers.</li>
+        </ul>
+        <a href="https://github.com/krishna3163" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" alt="Focus Pet Android App" />
+        <br><br>
+        <b>📱 Focus Pet – Productivity Android App</b>
+        <br>
+        <sub><code>Java</code> • <code>Android SDK</code> • <code>Background Services</code> • <code>BroadcastReceivers</code></sub>
+        <ul align="left">
+          <li><b>Pomodoro Focus Engine:</b> Background countdown service with customizable acoustic alerts.</li>
+          <li><b>Distraction Interceptor:</b> System BroadcastReceivers minimizing smartphone notifications.</li>
+          <li><b>Lifecycle Management:</b> Resilient Android service lifecycles compliant with OS battery rules.</li>
+          <li><b>Theme Engine:</b> SharedPreferences persistence supporting dynamic dark/light night modes.</li>
+        </ul>
+        <a href="https://github.com/krishna3163" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" alt="Student Management System" />
+        <br><br>
+        <b>🎓 Student Management System &amp; REST Suite</b>
+        <br>
+        <sub><code>Java 17</code> • <code>Spring Boot 3</code> • <code>Spring Security JWT</code> • <code>JPA</code> • <code>PostgreSQL</code></sub>
+        <ul align="left">
+          <li><b>3-Tier Architecture:</b> Decoupled <code>@RestController</code>, <code>@Service</code>, and <code>@Repository</code> layers.</li>
+          <li><b>Role-Based Access:</b> Spring Security 6 stateless filter chains (Admin vs Student access).</li>
+          <li><b>Database Optimization:</b> Relational JPA mappings in PostgreSQL eliminating N+1 query overhead.</li>
+          <li><b>RFC-7807 Errors:</b> Global <code>@ControllerAdvice</code> error handling with automated Postman tests.</li>
+        </ul>
+        <a href="https://github.com/krishna3163/Student-Management-System-" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" alt="OpenDiscover &amp; Android Tooling" />
+        <br><br>
+        <b>🔍 OpenDiscover &amp; Android Tooling Suite</b>
+        <br>
+        <sub><code>TypeScript</code> • <code>React</code> • <code>Python Automation</code> • <code>Android Ecosystem</code></sub>
+        <ul align="left">
+          <li><b>Open Source Discovery:</b> Platform indexing trending developer utilities and open-source tools.</li>
+          <li><b>180+ Stars:</b> Curated ecosystem repositories (<code>best_shizuku_apps</code> <b>147★</b>, <code>best-root-apps</code> <b>40★</b>).</li>
+          <li><b>CI/CD Automation:</b> GitHub Actions workflows auto-indexing APKs and upstream releases.</li>
+          <li><b>Technical Docs:</b> Curated deep-dive guides for wireless ADB, debloating, and system permissions.</li>
+        </ul>
+        <a href="https://github.com/krishna3163/OpenDiscover" target="_blank"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <!-- Project 1: AI Healthcare System -->
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" style="border-radius: 10px;" alt="AI Healthcare &amp; Hospital Management" />
-      </div>
-      <br>
-      <h3>🏥 AI Healthcare &amp; Hospital Management</h3>
-      <p><sub><b>Stack:</b> Java 17 • Spring Boot 3 • Microservices • PostgreSQL • Spring Security • Gemini AI • Postman</sub></p>
-      <br>
-      <ul>
-        <li><b>Microservices Backend:</b> Architected decoupled services for user authentication, doctor directories, and queue bookings.</li>
-        <li><b>Doctor Discovery:</b> Built fast query filtering by medical specialization, geographic location, and gender.</li>
-        <li><b>Google Gemini AI Triage:</b> Integrated LLM REST endpoints for automated symptom intake and guidance before booking.</li>
-        <li><b>Security:</b> Implemented role-based stateless security with validation filters across all endpoints.</li>
-      </ul>
-      <br>
-      <div align="center">
-        <a href="https://github.com/krishna3163" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </div>
-    </td>
-
-    <!-- Project 2: Focus Pet Android App -->
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" style="border-radius: 10px;" alt="Focus Pet Productivity Android App" />
-      </div>
-      <br>
-      <h3>📱 Focus Pet – Productivity Android App</h3>
-      <p><sub><b>Stack:</b> Java • Android SDK • Background Services • BroadcastReceivers • XML UI • Google APIs</sub></p>
-      <br>
-      <ul>
-        <li><b>Pomodoro Focus Engine:</b> Engineered background timer services with customizable intervals and acoustic cues.</li>
-        <li><b>Distraction Interceptor:</b> Integrated system BroadcastReceivers to minimize notifications during deep work intervals.</li>
-        <li><b>Clean Android MVC:</b> Built robust activity lifecycles adhering to modern Android OS battery optimization rules.</li>
-        <li><b>Preferences &amp; Themes:</b> SharedPreferences persistence supporting light/dark theme switching for night coding.</li>
-      </ul>
-      <br>
-      <div align="center">
-        <a href="https://github.com/krishna3163" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Project 3: Student Management System -->
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" style="border-radius: 10px;" alt="Student Management System" />
-      </div>
-      <br>
-      <h3>🎓 Student Management System &amp; REST Suite</h3>
-      <p><sub><b>Stack:</b> Java 17 • Spring Boot 3 • Spring Security (JWT) • Spring Data JPA • PostgreSQL • Maven</sub></p>
-      <br>
-      <ul>
-        <li><b>3-Tier Architecture:</b> Engineered layered structure with `@RestController`, `@Service`, and `@Repository` layers.</li>
-        <li><b>Role-Based Access Control:</b> Configured Spring Security 6 stateless filter chains separating Admin and Student roles.</li>
-        <li><b>Database Optimization:</b> Optimized Hibernate fetch strategies and relational mappings in PostgreSQL to prevent N+1 queries.</li>
-        <li><b>RFC-7807 Error Handling:</b> Custom `@ControllerAdvice` returning unified error payloads with comprehensive Postman test suite.</li>
-      </ul>
-      <br>
-      <div align="center">
-        <a href="https://github.com/krishna3163/Student-Management-System-" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </div>
-    </td>
-
-    <!-- Project 4: OpenDiscover & Android Tooling Suite -->
-    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" style="border-radius: 10px;" alt="OpenDiscover &amp; Android Tooling" />
-      </div>
-      <br>
-      <h3>🔍 OpenDiscover &amp; Android Tooling Suite</h3>
-      <p><sub><b>Stack:</b> TypeScript • React • Python Automation • Android Ecosystem • GitHub Actions CI</sub></p>
-      <br>
-      <ul>
-        <li><b>Open Source Discovery Hub:</b> Platform linking trending developer utilities and open-source Android projects.</li>
-        <li><b>180+ Community Stars:</b> Maintained high-star directories (`best_shizuku_apps` <b>147★</b>, `best-root-apps` <b>40★</b>).</li>
-        <li><b>Automated Synchronization:</b> GitHub Actions workflows to auto-index release APKs, verify checksums, and update documentation.</li>
-        <li><b>Developer Documentation:</b> Curated deep-dive guides for wireless ADB, debloating, and permission architecture.</li>
-      </ul>
-      <br>
-      <div align="center">
-        <a href="https://github.com/krishna3163/OpenDiscover" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br><br>
 
@@ -356,7 +304,34 @@
   <br>
 
 <!-- TOP_REPOS:START -->
-
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
+        <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
+        <p>⭐ <b>147</b> &nbsp;|&nbsp; 🍴 <b>8</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
+        <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
+        <p>⭐ <b>40</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
+        <p>Open source project by Krishna Kumar</p>
+        <p>⭐ <b>38</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
+        <p>Open source project by Krishna Kumar</p>
+        <p>⭐ <b>33</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- TOP_REPOS:END -->
 
 </div>
@@ -395,13 +370,6 @@
 
   <br><br>
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/krishna3163">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna3163&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" />
-  </a>
-
-  <br><br>
-
   <!-- GitHub Official Achievements -->
   <div align="center">
     <h3>🎖️ GitHub Official Achievements</h3>
@@ -437,7 +405,44 @@
 
 <!-- RECENT_ACTIVITY:START -->
 <div align="center">
-  <p>🚀 <i>Active daily in open-source development and algorithm problem-solving.</i></p>
+  <table width="100%">
+    <tr>
+      <th align="left" width="22%">Activity</th>
+      <th align="left" width="40%">Repository</th>
+      <th align="left" width="26%">Summary</th>
+      <th align="center" width="12%">Date</th>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-20</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-19</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"><code>krishna3163/best_shizuku_apps_for_android_no_root</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-16</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-15</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-16</code></td>
+    </tr>
+  </table>
 </div>
 <!-- RECENT_ACTIVITY:END -->
 
