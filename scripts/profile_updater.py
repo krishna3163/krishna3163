@@ -570,39 +570,46 @@ def update_profile_readme() -> bool:
     # 1. LeetCode Stats
     logger.info("[INFO] Fetching LeetCode stats...")
     leetcode_stats = fetch_leetcode_stats()
-    leetcode_md = generate_leetcode_section(leetcode_stats)
-    content = replace_marker(content, "LEETCODE", leetcode_md)
+    if leetcode_stats:
+        leetcode_md = generate_leetcode_section(leetcode_stats)
+        content = replace_marker(content, "LEETCODE", leetcode_md)
 
     # 2. Recent Activity
     logger.info("[INFO] Fetching GitHub recent activity...")
     activities = fetch_recent_activity()
-    activity_md = generate_recent_activity_section(activities)
-    content = replace_marker(content, "RECENT_ACTIVITY", activity_md)
+    if activities:
+        activity_md = generate_recent_activity_section(activities)
+        content = replace_marker(content, "RECENT_ACTIVITY", activity_md)
 
     # 3. Top Repositories
     logger.info("[INFO] Fetching top repositories...")
     repos = fetch_top_repositories()
-    repos_md = generate_top_repos_section(repos)
-    content = replace_marker(content, "TOP_REPOS", repos_md)
+    if repos:
+        repos_md = generate_top_repos_section(repos)
+        content = replace_marker(content, "TOP_REPOS", repos_md)
 
     # 4. Daily Quote
     quote_md = get_daily_quote()
-    content = replace_marker(content, "DAILY_QUOTE", quote_md)
+    if quote_md:
+        content = replace_marker(content, "DAILY_QUOTE", quote_md)
 
     # 5. Resume Info
     resume_md = get_resume_info()
-    content = replace_marker(content, "RESUME_INFO", resume_md)
+    if resume_md:
+        content = replace_marker(content, "RESUME_INFO", resume_md)
 
     # 6. Dynamic Greeting
     greeting_md = get_dynamic_greeting()
-    content = replace_marker(content, "DYNAMIC_GREETING", greeting_md)
+    if greeting_md:
+        content = replace_marker(content, "DYNAMIC_GREETING", greeting_md)
 
     # 7. Community Wall (Stargazers & Followers)
     logger.info("[INFO] Fetching community stargazers & followers...")
     stargazers = fetch_stargazers()
     followers = fetch_followers()
-    community_md = generate_community_wall_section(stargazers, followers)
-    content = replace_marker(content, "COMMUNITY_WALL", community_md)
+    if stargazers or followers:
+        community_md = generate_community_wall_section(stargazers, followers)
+        content = replace_marker(content, "COMMUNITY_WALL", community_md)
 
     README_PATH.write_text(content, encoding="utf-8")
     logger.info("[INFO] Successfully updated README.md with all dynamic profile automations!")

@@ -1,54 +1,52 @@
-
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner Card -->
-  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/hero-header.svg" width="100%" alt="Krishna Kumar - Software Developer" />
+  <!-- ============================================================ -->
+  <!-- 🚀 HERO HEADER BANNER                                         -->
+  <!-- ============================================================ -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/hero-header.svg" width="100%" alt="Krishna Kumar - Java Backend Developer &amp; Microservices Architect" />
 
   <br><br>
 
-
-
-  <!-- Animated Character Lineup -->
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/demij6b-7cea31ba-524e-440b-8567-5249198385d5.gif" height="150" alt="Wizard" /></td>
-      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/giphy.gif" height="150" alt="Magic" /></td>
-      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/217821684-c850eafe-8dfa-4308-a2e3-eb5fce9a8268.gif" height="150" alt="Spellcaster" /></td>
-      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/d1p0kr2-931c991a-906c-44de-9ffa-0f654bc310f6.gif" height="150" alt="Dragon" /></td>
-      <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif" height="150" alt="Enchanter" /></td>
-    </tr>
-  </table>
+  <!-- ============================================================ -->
+  <!-- 👋 DYNAMIC GREETING CARD                                      -->
+  <!-- ============================================================ -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/greeting-title.svg" width="100%" alt="Welcome to Krishna Kumar's Profile" />
 
   <br>
 
-  <!-- Dynamic Animated Greeting Title Card -->
-  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/greeting-title.svg" width="100%" alt="Greetings &amp; Welcome! I'm Krishna Kumar" />
-
-
-  <!-- Single Typing SVG Subtitle -->
+  <!-- Dynamic Typing SVG Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&color=C084FC&size=28&height=65&center=true&vCenter=true&width=1000&lines=Software+Developer;Problem+Solver;Open+Source+Contributor;Full+Stack+%26+Cloud+Engineer;DSA+%26+System+Design;B.Tech+CSE+'27+@+AKTU;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=950&lines=Java+Backend+Architect+%26+Microservices+Specialist;Spring+Boot+3+%2B+PostgreSQL+%2B+Stateless+REST+APIs;100%2B+LeetCode+Problems+Solved+(Optimal+DSA);Google+Gemini+AI+%26+LLM+Application+Integrator;Open-Source+Contributor+with+250%2B+Community+Stars;B.Tech+CSE+'27+@+AKTU+Lucknow;" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- Quick Badges & Profile Views -->
+  <!-- ============================================================ -->
+  <!-- 🌐 QUICK CONNECT & REPUTATION BADGES                          -->
+  <!-- ============================================================ -->
   <p>
-    <a href="https://in.linkedin.com/in/krishna0858"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:kk3163019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/krishna0858/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-    <a href="https://github.com/krishna3163"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/krishna0858" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/krishna0858/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://github.com/krishna3163" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:kk3163019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://t.me/kk3163019" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <img src="https://komarev.com/ghpvc/?username=krishna3163&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
   </p>
 
   <br>
 
+  <!-- ============================================================ -->
+  <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
+  <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `22 October 2026, 10:18 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `22 October 2026, 11:44 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
 
+  <!-- ============================================================ -->
+  <!-- 📄 RESUME DOWNLOAD CTA                                       -->
+  <!-- ============================================================ -->
   <!-- RESUME_INFO:START -->
 <div align="center">
   <a href="https://raw.githubusercontent.com/krishna3163/krishna3163/main/CV.pdf" target="_blank">
@@ -58,306 +56,271 @@
 </div>
 <!-- RESUME_INFO:END -->
 
+  <br>
+
+  <!-- ============================================================ -->
+  <!-- 📊 3D BENTO STATS STRIP                                      -->
+  <!-- ============================================================ -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/profile-3d-stats.svg" width="100%" alt="3D Profile Stats" />
+
 </div>
 
 <br><br>
 
-<img align="right" alt="Coding" width="480" height="290" src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
-
-<br>
-
-### 🧑‍💻 About Me
-
-- 🎓 **Computer Science & Engineering Student** at Dr. A.P.J. Abdul Kalam Technical University (2023–2027)
-- 📍 Based in **Lucknow, Uttar Pradesh, India** 🇮🇳
-- 💻 **Full-Stack Developer** specializing in React, Node.js, Express, Python, Java, and Cloud Technologies
-- 🎯 Solved **100+ DSA Problems** on LeetCode & Active Open-Source Contributor
-- 🛠️ Experienced in building real-time healthcare platforms, e-commerce applications, and AI integrations
-- 📄 View full CV details directly below or connect via **kk3163019@gmail.com** / **Telegram: [@kk3163019](https://t.me/kk3163019)** / **WhatsApp: +91 8210763241**
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
-<br>
-
-<!-- 3D Interactive Profile Cards -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/profile-3d-stats.svg" alt="3D Profile Stats" width="100%" />
-</div>
-
-<br>
-
-
-
-<div align="center">
-<h2 align='center'><strong>🎓 Education</strong></h2>
-</div>
-
-<br>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <h3>🏛️ Dr. A.P.J. Abdul Kalam Technical University</h3>
-        <p><b>Bachelor of Technology (B.Tech) in Computer Science and Engineering</b></p>
-        <p>🗓️ <i>Aug 2023 – Aug 2027</i> &nbsp;|&nbsp; 📍 <i>Lucknow, Uttar Pradesh, India</i></p>
-        <br>
-        <p><b>📚 Relevant Coursework:</b></p>
-        <ul>
-          <li>Data Structures & Algorithms (DSA)</li>
-          <li>Object-Oriented Programming (OOP)</li>
-          <li>Database Management Systems (DBMS)</li>
-          <li>Operating Systems & System Architecture</li>
-          <li>Software Engineering & SDLC</li>
-        </ul>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" style="border-radius:12px;" alt="Campus Life" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-<h2 align='center'><strong>🛠️ Technical Skills & Arsenal</strong></h2>
-</div>
-
-<br>
-
-<div align="center">
-<table>
-	<tr>
-		<td><strong>💻 Languages</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-			<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-			<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-			<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>🎨 Frontend</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-			<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-			<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>⚙️ Backend & Frameworks</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-			<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>🗄️ Databases</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-			<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>☁️ Tools & APIs</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-			<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-			<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Razorpay_API-0C2340?style=for-the-badge&logo=razorpay&logoColor=white"/>
-			<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>🧠 Core Competencies</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/DSA-Problem_Solving-blueviolet?style=for-the-badge"/>
-			<img src="https://img.shields.io/badge/OOP-System_Design-007ACC?style=for-the-badge"/>
-			<img src="https://img.shields.io/badge/Full_Stack-Web_Development-success?style=for-the-badge"/>
-			<img src="https://img.shields.io/badge/Authentication-Security-critical?style=for-the-badge"/>
-		</td>
-	</tr>
+<!-- ============================================================ -->
+<!-- 🧑‍💻 ABOUT ME & CORE ARCHITECTURAL PILLARS (BENTO)              -->
+<!-- ============================================================ -->
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6); padding: 22px;">
+      <h3>⚡ About Krishna Kumar</h3>
+      <p>I am a <b>Computer Science &amp; Engineering undergraduate</b> at Dr. A.P.J. Abdul Kalam Technical University (AKTU Lucknow, '27) specializing in <b>Java Backend Architecture</b>, <b>Spring Boot Microservices</b>, and <b>Enterprise AI Integration</b>.</p>
+      <br>
+      <p><b>🎯 What I Do Best:</b></p>
+      <ul>
+        <li><b>Enterprise REST APIs:</b> Designing high-throughput, stateless backends with Spring Boot 3, Spring Data JPA, and PostgreSQL.</li>
+        <li><b>AI &amp; LLM Workflows:</b> Integrating Google Gemini AI for intelligent triage, conversational assistance, and context-aware responses.</li>
+        <li><b>Algorithmic Rigor:</b> Solved <b>100+ LeetCode problems</b> in Java focusing on optimal Big-O time and space complexity.</li>
+        <li><b>Open Source Impact:</b> Author and maintainer of open-source tooling suites with <b>250+ community stars</b>.</li>
+      </ul>
+      <br>
+      <p>📍 <i>Lucknow, Uttar Pradesh, India</i> &nbsp;|&nbsp; 💼 <i>Available for SDE &amp; Backend Internships</i></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6); padding: 22px;">
+      <h3>🏛️ Core Engineering Pillars</h3>
+      <table width="100%" border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td valign="top"><b>⚙️ Backend Microservices</b><br><sub>Decoupled domains, Spring Security 6 stateless JWT, JPA query optimization, and RFC-7807 global exception handling.</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><b>🧠 AI &amp; LLM Integration</b><br><sub>Connecting LLM endpoints (Google Gemini API) to Java backend pipelines for patient triage, query extraction, and automation.</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><b>🧩 DSA &amp; Algorithmic Discipline</b><br><sub>Strong foundations in Trees, Graphs, Dynamic Programming, Arrays, and Recursion with clean, maintainable Java code.</sub></td>
+        </tr>
+        <tr>
+          <td valign="top"><b>📱 Mobile &amp; System Tooling</b><br><sub>Android SDK development, background services, BroadcastReceivers, and system optimization utilities.</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/Skills_Animation_Dark.gif" alt="Skills Animation" width="98%" />
-</div>
-
-<div align="center">
-<h2 align='center'><strong>🌟 Active Open-Source Projects & Repositories</strong></h2>
-</div>
-
-<br>
-
-<!-- TOP_REPOS:START -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
-        <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>147</b> &nbsp;|&nbsp; 🍴 <b>8</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
-        <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
-        <p>⭐ <b>40</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
-        <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>38</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
-        <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>33</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- TOP_REPOS:END -->
 
 <br><br>
 
+<!-- ============================================================ -->
+<!-- 🎓 ACADEMIC FOUNDATION                                       -->
+<!-- ============================================================ -->
 <div align="center">
-<h2 align='center'><strong>🚀 Featured Full-Stack Projects Showcase</strong></h2>
-</div>
-
-<br>
-
-<div align="center">
-  <table width="100%">
+  <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.6);">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" alt="Online Doctor Prescription System" />
-        <br><br>
-        <b>🩺 Online Doctor Prescription System (2025)</b>
-        <br><sub>React • Firebase Auth • Supabase • Formspree</sub>
-        <ul align="left">
-          <li>Built a secure web platform for doctors to create & manage digital prescriptions</li>
-          <li>Implemented Firebase authentication for role-based access (doctor/user)</li>
-          <li>Utilized Supabase as a scalable cloud backend database for medical records</li>
-          <li>Integrated Formspree for feedback & automated error reporting</li>
+      <td width="60%" valign="top" style="padding: 24px;">
+        <h2>🎓 Academic Journey</h2>
+        <h3>🏛️ Dr. A.P.J. Abdul Kalam Technical University (AKTU)</h3>
+        <p><b>Bachelor of Technology (B.Tech) in Computer Science &amp; Engineering</b></p>
+        <p>🗓️ <i>August 2023 – August 2027</i> &nbsp;|&nbsp; 📍 <i>Lucknow, Uttar Pradesh, India</i></p>
+        <br>
+        <p><b>📚 Core Computer Science Coursework:</b></p>
+        <ul>
+          <li><b>Data Structures &amp; Algorithms (DSA)</b> — Asymptotic Analysis, Advanced Trees, Graphs &amp; DP</li>
+          <li><b>Database Management Systems (DBMS)</b> — Relational Normalization, Indexing, ACID &amp; SQL</li>
+          <li><b>Object-Oriented Programming (OOP)</b> — Design Patterns, Encapsulation, SOLID Principles</li>
+          <li><b>Operating Systems &amp; Networks</b> — Concurrency, Memory Paging, Sockets &amp; TCP/IP</li>
         </ul>
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" alt="Online Near Doctor" />
-        <br><br>
-        <b>🏥 Online Near Doctor — Healthcare Locator (2025)</b>
-        <br><sub>Google Maps API • JavaScript • Real-Time GPS</sub>
-        <ul align="left">
-          <li>Developed a real-time location system to pinpoint nearby doctors & hospitals</li>
-          <li>Displayed live user location with nearest medical facilities & emergency contacts</li>
-          <li>Added features for blood donation, organ donation, and nearby blood bank discovery</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_46_13_PM.gif" width="100%" alt="OpenDiscover Platform" />
-        <br><br>
-        <b>🔍 OpenDiscover — Open Source App Discovery (2025)</b>
-        <br><sub>TypeScript • Web Platform • Open Source</sub>
-        <ul align="left">
-          <li>Built a Play Store–like platform exclusively for open-source applications</li>
-          <li>Enabled developers to upload apps and link GitHub repositories seamlessly</li>
-          <li>Designed discovery feeds to showcase trending open-source projects</li>
-        </ul>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" alt="QuickShop E-Commerce" />
-        <br><br>
-        <b>🛒 QuickShop — Full Stack E-Commerce (2024)</b>
-        <br><sub>React • Node.js • Express.js • MongoDB • Razorpay</sub>
-        <ul align="left">
-          <li>Developed full-featured e-commerce platform with auth & admin dashboard</li>
-          <li>Integrated Razorpay UPI payments for instant checkout transactions</li>
-          <li>Optimized MongoDB database queries for high performance & scalability</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/mystic_sorcerer.gif" width="100%" alt="AI Medical Assistant" />
-        <br><br>
-        <b>🤖 AI Medical Assistant (2024)</b>
-        <br><sub>TypeScript • React • AI Integration</sub>
-        <ul align="left">
-          <li>Built an AI-powered assistant to provide instant medical guidance & healthcare info</li>
-          <li>Engineered maintainable UI using TypeScript & modular React architecture</li>
-          <li>Structured prompt workflows for reliable health query processing</li>
-        </ul>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" alt="Management Systems" />
-        <br><br>
-        <b>📊 Student & Bank Management Systems (2024)</b>
-        <br><sub>Java • MySQL • JDBC • C • DSA</sub>
-        <ul align="left">
-          <li>Developed CRUD-based academic & banking systems with fast search logic</li>
-          <li>Improved query performance by 40% using efficient data structure handling</li>
-          <li>Implemented secure transaction processing & data persistence</li>
-        </ul>
+      <td width="40%" align="center" valign="middle" style="padding: 24px;">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/rooftop_sunset_animated.gif" width="100%" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Campus Sunset" />
       </td>
     </tr>
   </table>
 </div>
 
----
+<br><br>
 
+<!-- ============================================================ -->
+<!-- 🛠️ TECHNICAL ARSENAL & SKILLS MATRIX                          -->
+<!-- ============================================================ -->
 <div align="center">
-<h2 align='center'><strong>🏆 Achievements & Certifications</strong></h2>
-</div>
+  <h2>🛠️ Technical Arsenal &amp; Ecosystem</h2>
+  <p><i>Curated toolset honed across production architectures, backend microservices, and competitive problem solving.</i></p>
+  <br>
 
-<br>
-
-<div align="center">
-  <table width="100%">
+  <table width="100%" border="0" cellspacing="0" cellpadding="8">
     <tr>
-      <td width="50%" valign="top">
-        <h3>🏅 Key Achievements</h3>
-        <ul>
-          <li><b>🧩 100+ Solved DSA Problems</b> on LeetCode across Easy, Medium & Hard topics</li>
-          <li><b>🎖️ GitHub Official Badges:</b> YOLO, Starstruck, Pull Shark, Quickdraw</li>
-          <li><b>🌟 Active Open-Source Contributor</b> maintaining public repositories</li>
-        </ul>
+      <td width="28%"><strong>💻 Programming Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
       </td>
-      <td width="50%" valign="top">
-        <h3>📜 Professional Certifications</h3>
-        <ul>
-          <li><b>HackerRank:</b> Java, Python, SQL (Basic to Advanced), Problem Solving</li>
-          <li><b>KNOWLEDGEGATE:</b> Node.js + Express.js + MongoDB Mastery</li>
-          <li><b>Complete Coding:</b> React & Redux Development</li>
-          <li><b>GitHub:</b> GitHub Copilot & Prompt Engineering</li>
-        </ul>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Backend &amp; Architecture</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+        <img src="https://img.shields.io/badge/Microservices-02569B?style=for-the-badge&logo=cube&logoColor=white" alt="Microservices" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🗄️ Databases &amp; Persistence</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🧠 AI, APIs &amp; Cloud</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C4?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini AI" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+        <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Razorpay_Payments-0C2340?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ DevOps &amp; Developer Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+        <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
       </td>
     </tr>
   </table>
 </div>
 
+<br><br>
+
+<!-- ============================================================ -->
+<!-- 🚀 FLAGSHIP PROJECTS SHOWCASE (THE CROWN JEWELS)             -->
+<!-- ============================================================ -->
+<div align="center">
+  <h2>🚀 Flagship Production &amp; Open-Source Projects</h2>
+  <p><i>Real-world enterprise backend architectures, intelligent AI systems, and popular mobile tooling.</i></p>
+</div>
+
 <br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <!-- Project 1: AI Healthcare System -->
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/ChatGPT_Image_Aug_10_2026_09_43_27_PM.gif" width="100%" style="border-radius: 10px;" alt="AI Healthcare &amp; Hospital Management" />
+      </div>
+      <br>
+      <h3>🏥 AI Healthcare &amp; Hospital Management</h3>
+      <p><sub><b>Stack:</b> Java 17 • Spring Boot 3 • Microservices • PostgreSQL • Spring Security • Gemini AI • Postman</sub></p>
+      <br>
+      <ul>
+        <li><b>Microservices Backend:</b> Architected decoupled services for user authentication, doctor directories, and queue bookings.</li>
+        <li><b>Doctor Discovery:</b> Built fast query filtering by medical specialization, geographic location, and gender.</li>
+        <li><b>Google Gemini AI Triage:</b> Integrated LLM REST endpoints for automated symptom intake and guidance before booking.</li>
+        <li><b>Security:</b> Implemented role-based stateless security with validation filters across all endpoints.</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/krishna3163" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </div>
+    </td>
+
+    <!-- Project 2: Focus Pet Android App -->
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/lofi_gamer_cat.gif" width="100%" style="border-radius: 10px;" alt="Focus Pet Productivity Android App" />
+      </div>
+      <br>
+      <h3>📱 Focus Pet – Productivity Android App</h3>
+      <p><sub><b>Stack:</b> Java • Android SDK • Background Services • BroadcastReceivers • XML UI • Google APIs</sub></p>
+      <br>
+      <ul>
+        <li><b>Pomodoro Focus Engine:</b> Engineered background timer services with customizable intervals and acoustic cues.</li>
+        <li><b>Distraction Interceptor:</b> Integrated system BroadcastReceivers to minimize notifications during deep work intervals.</li>
+        <li><b>Clean Android MVC:</b> Built robust activity lifecycles adhering to modern Android OS battery optimization rules.</li>
+        <li><b>Preferences &amp; Themes:</b> SharedPreferences persistence supporting light/dark theme switching for night coding.</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/krishna3163" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Project 3: Student Management System -->
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/coder_workspace_animated.gif" width="100%" style="border-radius: 10px;" alt="Student Management System" />
+      </div>
+      <br>
+      <h3>🎓 Student Management System &amp; REST Suite</h3>
+      <p><sub><b>Stack:</b> Java 17 • Spring Boot 3 • Spring Security (JWT) • Spring Data JPA • PostgreSQL • Maven</sub></p>
+      <br>
+      <ul>
+        <li><b>3-Tier Architecture:</b> Engineered layered structure with `@RestController`, `@Service`, and `@Repository` layers.</li>
+        <li><b>Role-Based Access Control:</b> Configured Spring Security 6 stateless filter chains separating Admin and Student roles.</li>
+        <li><b>Database Optimization:</b> Optimized Hibernate fetch strategies and relational mappings in PostgreSQL to prevent N+1 queries.</li>
+        <li><b>RFC-7807 Error Handling:</b> Custom `@ControllerAdvice` returning unified error payloads with comprehensive Postman test suite.</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/krishna3163/Student-Management-System-" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </div>
+    </td>
+
+    <!-- Project 4: OpenDiscover & Android Tooling Suite -->
+    <td width="50%" valign="top" style="border: 1px solid rgba(129, 140, 248, 0.25); border-radius: 16px; background: rgba(15, 23, 42, 0.7); padding: 20px;">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/Gif/cyberpunk_samurai.gif" width="100%" style="border-radius: 10px;" alt="OpenDiscover &amp; Android Tooling" />
+      </div>
+      <br>
+      <h3>🔍 OpenDiscover &amp; Android Tooling Suite</h3>
+      <p><sub><b>Stack:</b> TypeScript • React • Python Automation • Android Ecosystem • GitHub Actions CI</sub></p>
+      <br>
+      <ul>
+        <li><b>Open Source Discovery Hub:</b> Platform linking trending developer utilities and open-source Android projects.</li>
+        <li><b>180+ Community Stars:</b> Maintained high-star directories (`best_shizuku_apps` <b>147★</b>, `best-root-apps` <b>40★</b>).</li>
+        <li><b>Automated Synchronization:</b> GitHub Actions workflows to auto-index release APKs, verify checksums, and update documentation.</li>
+        <li><b>Developer Documentation:</b> Curated deep-dive guides for wireless ADB, debloating, and permission architecture.</li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://github.com/krishna3163/OpenDiscover" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ============================================================ -->
+<!-- 🧩 LIVE LEETCODE PERFORMANCE & DSA RIGOR                    -->
+<!-- ============================================================ -->
+<div align="center">
+  <h2>🧩 Algorithmic Discipline &amp; LeetCode Metrics</h2>
+  <p><i>Consistent daily problem solving in Java covering Arrays, Dynamic Programming, Graphs, and Trees.</i></p>
+  <br>
 
 <!-- LEETCODE:START -->
 <div align="center">
@@ -380,141 +343,114 @@
 </div>
 <!-- LEETCODE:END -->
 
----
-
-<div align="center">
-<h2 align='center'><strong>🌐 Open Source & Community Engagement</strong></h2>
-<p><b>Open Source Contributor (2024 – Present)</b> | GitHub Community</p>
 </div>
 
-<ul>
-  <li>Maintain and contribute to active repositories focused on Java, Full Stack development, and Android tooling</li>
-  <li>Created extensive documentation and curated collections for Android system customization tools</li>
-  <li>Collaborate with global developers to refine open-source codebases and promote developer tooling</li>
-</ul>
+<br><br>
 
----
-
+<!-- ============================================================ -->
+<!-- 🌟 TOP REPOSITORIES & OPEN-SOURCE IMPACT                      -->
+<!-- ============================================================ -->
 <div align="center">
-<h2 align='center'><strong>📊 GitHub Analytics & 3D Skyline</strong></h2>
-
-<br>
-
-<!-- GitHub Streak & Stats -->
-<a href="https://github.com/krishna3163">
-  <img width="49%" src="https://streak-stats.demolab.com?user=krishna3163&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/krishna3163">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna3163&theme=radical" alt="GitHub Stats" />
-</a>
-
-<br><br>
-
-<!-- Top Languages -->
-<a href="https://github.com/krishna3163">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna3163&theme=radical" alt="Top Languages by Repo" />
-</a>
-<a href="https://github.com/krishna3163">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna3163&theme=radical" alt="Top Languages by Commit" />
-</a>
-
-<br><br>
-
-<!-- 3D Contribution Graph -->
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
-
-
-<br><br>
-
-<!-- Activity Graph -->
-<a href="https://github.com/krishna3163">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna3163&theme=redical&hide_border=true&border_radius=10" alt="Activity Graph" />
-</a>
-
-<br><br>
-
-<!-- GitHub Official 3D Achievements Showcase -->
-<div align="center">
-  <h3 align="center"><strong>🎖️ GitHub Official Achievements & Badges</strong></h3>
+  <h2>🌟 Active Open-Source Repositories</h2>
+  <p><i>Featured repositories with verified community engagement and stars.</i></p>
   <br>
-  <a href="https://github.com/krishna3163?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95" alt="Pull Shark" title="Pull Shark - Merged PRs" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw - Fast Response" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO - Merged Without Review" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="95" alt="Starstruck" title="Starstruck - High Starred Repos" />
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Commits" />
-  </a>
+
+<!-- TOP_REPOS:START -->
+
+<!-- TOP_REPOS:END -->
+
 </div>
 
 <br><br>
 
+<!-- ============================================================ -->
+<!-- 📊 GITHUB ANALYTICS BENTO GRID                                -->
+<!-- ============================================================ -->
 <div align="center">
-<h3 align='center'><strong>⚡ Live Recent Activity Stream</strong></h3>
+  <h2>📊 GitHub Analytics &amp; Contribution Skyline</h2>
+  <br>
+
+  <!-- GitHub Streak & Stats -->
+  <a href="https://github.com/krishna3163">
+    <img width="49%" src="https://streak-stats.demolab.com?user=krishna3163&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/krishna3163">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna3163&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/krishna3163">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna3163&theme=tokyonight" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/krishna3163">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna3163&theme=tokyonight" alt="Top Languages by Commit" />
+  </a>
+
+  <br><br>
+
+  <!-- 3D Contribution Skyline Graph -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/krishna3163">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna3163&theme=tokyo-night&hide_border=true&border_radius=12" alt="Activity Graph" />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Official Achievements -->
+  <div align="center">
+    <h3>🎖️ GitHub Official Achievements</h3>
+    <br>
+    <a href="https://github.com/krishna3163?tab=achievements" target="_blank">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark - Merged PRs" />
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw - Fast Response" />
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90" alt="YOLO" title="YOLO - Merged Without Review" />
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="90" alt="Starstruck" title="Starstruck - High Starred Repos" />
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored Commits" />
+    </a>
+  </div>
+
+  <br><br>
+
+  <!-- Snake Contribution Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
 </div>
+
+<br><br>
+
+<!-- ============================================================ -->
+<!-- ⚡ LIVE RECENT ACTIVITY STREAM                                -->
+<!-- ============================================================ -->
+<div align="center">
+  <h2>⚡ Live Activity Stream</h2>
+  <br>
 
 <!-- RECENT_ACTIVITY:START -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <th align="left" width="22%">Activity</th>
-      <th align="left" width="40%">Repository</th>
-      <th align="left" width="26%">Summary</th>
-      <th align="center" width="12%">Date</th>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-20</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-19</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"><code>krishna3163/best_shizuku_apps_for_android_no_root</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-16</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-15</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-16</code></td>
-    </tr>
-  </table>
+  <p>🚀 <i>Active daily in open-source development and algorithm problem-solving.</i></p>
 </div>
 <!-- RECENT_ACTIVITY:END -->
 
+</div>
+
 <br><br>
 
-<!-- Snake Contribution Game -->
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/krishna3163/krishna3163/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
+<!-- ============================================================ -->
+<!-- 💖 COMMUNITY WALL & SUPPORTERS                               -->
+<!-- ============================================================ -->
 <div align="center">
-<h2 align='center'><strong>💖 Community Wall & Thank You Supporters</strong></h2>
-</div>
-
-<br>
+  <h2>💖 Community Wall &amp; Supporters</h2>
+  <br>
 
 <!-- COMMUNITY_WALL:START -->
 <div align="center">
@@ -622,64 +558,67 @@
 </div>
 <!-- COMMUNITY_WALL:END -->
 
+</div>
+
 <br><br>
 
----
-
+<!-- ============================================================ -->
+<!-- 🌍 GET IN TOUCH & SOCIALS MATRIX                              -->
+<!-- ============================================================ -->
 <div align="center">
-<h2 align='center'><strong>🌍 Connect With Me</strong></h2>
+  <h2>🌍 Let's Connect &amp; Collaborate</h2>
+  <p><i>Feel free to reach out for software engineering opportunities, open-source projects, or tech discussions!</i></p>
+  <br>
 
-<br>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://linkedin.com/in/krishna0858" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="46" alt="LinkedIn" title="LinkedIn @krishna0858" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="mailto:kk3163019@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="46" alt="Gmail" title="Email kk3163019@gmail.com" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://wa.me/918210763241" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="46" height="46" alt="WhatsApp" title="WhatsApp +91 8210763241" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://t.me/kk3163019" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="46" alt="Telegram" title="Telegram @kk3163019" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://leetcode.com/u/krishna0858/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="46" height="46" alt="LeetCode" title="LeetCode @krishna0858" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://www.geeksforgeeks.org/user/krishna3163/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="46" height="46" alt="GFG" title="GeeksforGeeks @krishna3163" />
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://github.com/krishna3163" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="46" height="46" alt="GitHub" title="GitHub @krishna3163" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://in.linkedin.com/in/krishna0858" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn @krishna0858" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="mailto:kk3163019@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="Gmail" title="Email kk3163019@gmail.com" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://wa.me/918210763241" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="50" alt="WhatsApp" title="WhatsApp +91 8210763241" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://t.me/kk3163019" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="Telegram" title="Telegram @kk3163019" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://leetcode.com/u/krishna0858/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" height="50" alt="LeetCode" title="LeetCode @krishna0858" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://www.geeksforgeeks.org/user/krishna3163/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50" height="50" alt="GFG" title="GeeksforGeeks @krishna3163" />
-      </a>
-    </td>
-    <td align="center" style="padding: 0 6px;">
-      <a href="https://github.com/krishna3163" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50" height="50" alt="GitHub" title="GitHub @krishna3163" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <br><br>
 
-<br><br>
-
-<!-- DAILY_QUOTE:START -->
+  <!-- DAILY_QUOTE:START -->
 > *“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics.”* — **Norman Ralph Augustine**
 <!-- DAILY_QUOTE:END -->
 
-<br>
+  <br>
 
-<!-- Matching Footer Banner Card -->
-<img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/footer-card.svg" width="100%" alt="Thanks For Visiting My Portfolio!" />
+  <!-- Closing Footer Banner -->
+  <img src="https://raw.githubusercontent.com/krishna3163/krishna3163/main/assets/footer-card.svg" width="100%" alt="Thanks For Visiting Krishna's Portfolio!" />
 
 </div>

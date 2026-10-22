@@ -1,20 +1,10 @@
-<svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 170" width="900" height="170" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&amp;display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800;900&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
-        @keyframes float3d {
-          0%, 100% { transform: perspective(800px) rotateX(1deg) rotateY(-1deg); }
-          50% { transform: perspective(800px) rotateX(-1deg) rotateY(1deg); }
-        }
-
-        @keyframes glow {
-          0%, 100% { box-shadow: 0 0 15px rgba(139, 92, 246, 0.2); }
-          50% { box-shadow: 0 0 30px rgba(139, 92, 246, 0.4); }
-        }
 
         @keyframes gradientFlow {
           0% { background-position: 0% 50%; }
@@ -22,44 +12,49 @@
           100% { background-position: 0% 50%; }
         }
 
-        @keyframes countUp {
-          from { opacity: 0; transform: translateY(10px); }
-          to { opacity: 1; transform: translateY(0); }
+        @keyframes cardGlow {
+          0%, 100% {
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(99, 102, 241, 0.08);
+            border-color: rgba(129, 140, 248, 0.25);
+          }
+          50% {
+            box-shadow: 0 12px 35px rgba(99, 102, 241, 0.15), inset 0 0 25px rgba(236, 72, 153, 0.12);
+            border-color: rgba(129, 140, 248, 0.45);
+          }
         }
 
         .wrapper {
           width: 880px;
-          padding: 10px;
-          animation: float3d 5s ease-in-out infinite;
+          margin: 6px auto;
         }
 
         .card {
-          background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1a1040 100%);
-          border: 1px solid rgba(139, 92, 246, 0.25);
-          border-radius: 16px;
-          padding: 24px 28px;
-          font-family: 'Inter', sans-serif;
-          color: #e6edf3;
+          background: linear-gradient(135deg, #090d16 0%, #0f172a 50%, #16112d 100%);
+          border: 1px solid rgba(129, 140, 248, 0.25);
+          border-radius: 18px;
+          padding: 16px 22px;
+          font-family: 'Outfit', sans-serif;
+          color: #e2e8f0;
           display: flex;
           align-items: center;
-          gap: 28px;
-          animation: glow 3s ease-in-out infinite;
+          gap: 22px;
+          animation: cardGlow 4s ease-in-out infinite;
         }
 
         .left {
           display: flex;
           flex-direction: column;
           align-items: center;
-          gap: 8px;
+          gap: 6px;
         }
 
         .ring {
-          width: 100px;
-          height: 100px;
+          width: 82px;
+          height: 82px;
           border-radius: 50%;
-          padding: 3px;
-          background: linear-gradient(135deg, #8b5cf6, #ec4899, #06b6d4, #8b5cf6);
-          background-size: 300% 300%;
+          padding: 2.5px;
+          background: linear-gradient(135deg, #38bdf8, #818cf8, #c084fc, #f472b6);
+          background-size: 250% 250%;
           animation: gradientFlow 4s linear infinite;
         }
 
@@ -67,108 +62,118 @@
           width: 100%;
           height: 100%;
           border-radius: 50%;
-          background: #0d1117;
+          background: #090d16;
           display: flex;
           align-items: center;
           justify-content: center;
-          font-size: 38px;
-          font-weight: 900;
-          background: linear-gradient(135deg, #1a1040, #0d1117);
         }
 
         .initials {
-          background: linear-gradient(135deg, #c084fc, #f472b6);
+          background: linear-gradient(135deg, #38bdf8, #c084fc);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
-          font-size: 38px;
+          font-size: 32px;
           font-weight: 900;
+          letter-spacing: -0.05em;
         }
 
         .username {
+          font-family: 'Space Grotesk', monospace;
           font-size: 11px;
-          color: #8b949e;
+          color: #94a3b8;
           text-align: center;
         }
 
-        .right { flex: 1; }
+        .right {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+        }
 
         .top-row {
           display: flex;
           justify-content: space-between;
-          align-items: flex-start;
-          margin-bottom: 16px;
+          align-items: center;
         }
 
-        .name-block {}
+        .name-block {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
 
         .name {
-          font-size: 24px;
-          font-weight: 900;
-          background: linear-gradient(90deg, #c084fc, #f472b6, #67e8f9);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          background-clip: text;
-          background-size: 200% auto;
-          animation: gradientFlow 3s linear infinite;
+          font-size: 22px;
+          font-weight: 800;
+          color: #f8fafc;
+          letter-spacing: -0.01em;
         }
 
         .subtitle {
-          font-size: 12px;
-          color: #8b949e;
-          margin-top: 2px;
+          font-size: 11.5px;
+          color: #94a3b8;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+
+        .subtitle span {
+          color: #818cf8;
         }
 
         .badge {
-          background: linear-gradient(135deg, rgba(139, 92, 246, 0.15), rgba(236, 72, 153, 0.15));
-          border: 1px solid rgba(139, 92, 246, 0.3);
-          border-radius: 20px;
-          padding: 6px 14px;
-          font-size: 11px;
-          color: #c084fc;
-          font-weight: 600;
+          background: rgba(34, 197, 94, 0.1);
+          border: 1px solid rgba(34, 197, 94, 0.35);
+          border-radius: 9999px;
+          padding: 4px 12px;
+          font-family: 'Space Grotesk', monospace;
+          font-size: 10.5px;
+          color: #4ade80;
+          font-weight: 700;
+          letter-spacing: 0.05em;
         }
 
         .stats-row {
           display: flex;
-          gap: 20px;
+          gap: 10px;
         }
 
         .stat {
           display: flex;
           align-items: center;
           gap: 8px;
-          background: rgba(139, 92, 246, 0.06);
-          border: 1px solid rgba(139, 92, 246, 0.1);
-          border-radius: 10px;
-          padding: 10px 16px;
+          background: rgba(129, 140, 248, 0.06);
+          border: 1px solid rgba(129, 140, 248, 0.14);
+          border-radius: 12px;
+          padding: 7px 12px;
           flex: 1;
-          animation: countUp 0.8s ease-out backwards;
         }
 
-        .stat:nth-child(1) { animation-delay: 0.2s; }
-        .stat:nth-child(2) { animation-delay: 0.4s; }
-        .stat:nth-child(3) { animation-delay: 0.6s; }
-        .stat:nth-child(4) { animation-delay: 0.8s; }
-        .stat:nth-child(5) { animation-delay: 1.0s; }
+        .stat-emoji {
+          font-size: 18px;
+        }
 
-        .stat-emoji { font-size: 18px; }
-
-        .stat-info {}
+        .stat-info {
+          display: flex;
+          flex-direction: column;
+        }
 
         .stat-num {
-          font-size: 18px;
+          font-size: 16px;
           font-weight: 800;
-          color: #e6edf3;
+          color: #f1f5f9;
+          line-height: 1.1;
         }
 
         .stat-lbl {
           font-size: 9px;
-          color: #6e7681;
+          color: #94a3b8;
           text-transform: uppercase;
           letter-spacing: 0.05em;
+          font-weight: 600;
         }
-
       </style>
 
       <div class="wrapper">
@@ -185,44 +190,44 @@
             <div class="top-row">
               <div class="name-block">
                 <div class="name">Krishna Kumar</div>
-                <div class="subtitle">📍 Lucknow, UP, India • Full Stack Developer • Open Source</div>
+                <div class="subtitle">📍 Lucknow, India <span>•</span> Java Backend &amp; Microservices <span>•</span> AI LLMs</div>
               </div>
-              <div class="badge">🟢 Available for Hire</div>
+              <div class="badge">🟢 Open for Hire</div>
             </div>
             <div class="stats-row">
               <div class="stat">
+                <span class="stat-emoji">🧩</span>
+                <div class="stat-info">
+                  <div class="stat-num">100+</div>
+                  <div class="stat-lbl">LeetCode DSA</div>
+                </div>
+              </div>
+              <div class="stat">
                 <span class="stat-emoji">⭐</span>
                 <div class="stat-info">
-                  <div class="stat-num">49+</div>
-                  <div class="stat-lbl">Stars</div>
+                  <div class="stat-num">250+</div>
+                  <div class="stat-lbl">Community Stars</div>
+                </div>
+              </div>
+              <div class="stat">
+                <span class="stat-emoji">🚀</span>
+                <div class="stat-info">
+                  <div class="stat-num">4+</div>
+                  <div class="stat-lbl">Core Projects</div>
                 </div>
               </div>
               <div class="stat">
                 <span class="stat-emoji">📦</span>
                 <div class="stat-info">
-                  <div class="stat-num">25+</div>
-                  <div class="stat-lbl">Repos</div>
+                  <div class="stat-num">30+</div>
+                  <div class="stat-lbl">Repositories</div>
                 </div>
               </div>
               <div class="stat">
-                <span class="stat-emoji">🔥</span>
+                <span class="stat-emoji">🎓</span>
                 <div class="stat-info">
-                  <div class="stat-num">500+</div>
-                  <div class="stat-lbl">Commits</div>
-                </div>
-              </div>
-              <div class="stat">
-                <span class="stat-emoji">🍴</span>
-                <div class="stat-info">
-                  <div class="stat-num">20+</div>
-                  <div class="stat-lbl">Forks</div>
-                </div>
-              </div>
-              <div class="stat">
-                <span class="stat-emoji">👥</span>
-                <div class="stat-info">
-                  <div class="stat-num">10+</div>
-                  <div class="stat-lbl">Followers</div>
+                  <div class="stat-num">AKTU '27</div>
+                  <div class="stat-lbl">B.Tech CSE</div>
                 </div>
               </div>
             </div>

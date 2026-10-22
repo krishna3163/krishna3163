@@ -1,8 +1,8 @@
-<svg fill="none" viewBox="0 0 900 130" width="900" height="130" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 120" width="900" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&amp;family=Space+Grotesk:wght@700&amp;display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;700;800;900&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -21,50 +21,42 @@
         }
 
         @keyframes pulseGlow {
-          0%, 100% { filter: drop-shadow(0 0 15px rgba(168, 85, 247, 0.4)); }
-          50% { filter: drop-shadow(0 0 30px rgba(236, 72, 153, 0.7)); }
-        }
-
-        @keyframes floatSparkle {
-          0%, 100% { transform: translateY(0px) scale(0.9); opacity: 0.5; }
-          50% { transform: translateY(-6px) scale(1.15); opacity: 1; }
+          0%, 100% { filter: drop-shadow(0 0 15px rgba(129, 140, 248, 0.4)); }
+          50% { filter: drop-shadow(0 0 25px rgba(236, 72, 153, 0.6)); }
         }
 
         .container {
           width: 880px;
-          height: 115px;
-          margin: 5px auto;
-          background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(30, 27, 75, 0.9) 50%, rgba(15, 23, 42, 0.9) 100%);
-          border: 1px solid rgba(168, 85, 247, 0.35);
-          border-radius: 20px;
+          height: 108px;
+          margin: 6px auto;
+          background: linear-gradient(135deg, rgba(15, 23, 42, 0.92) 0%, rgba(24, 18, 48, 0.94) 50%, rgba(15, 23, 42, 0.92) 100%);
+          border: 1px solid rgba(129, 140, 248, 0.3);
+          border-radius: 18px;
           display: flex;
+          flex-direction: column;
           align-items: center;
           justify-content: center;
-          gap: 16px;
-          padding: 0 30px;
+          gap: 6px;
+          padding: 12px 24px;
           font-family: 'Outfit', -apple-system, sans-serif;
           position: relative;
           overflow: hidden;
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(168, 85, 247, 0.15);
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 25px rgba(129, 140, 248, 0.1);
         }
 
         .ambient-light {
           position: absolute;
-          width: 250px;
-          height: 250px;
+          width: 260px;
+          height: 260px;
           border-radius: 50%;
-          background: radial-gradient(circle, rgba(168, 85, 247, 0.25) 0%, rgba(0, 0, 0, 0) 70%);
-          top: -60px;
+          background: radial-gradient(circle, rgba(129, 140, 248, 0.22) 0%, rgba(0, 0, 0, 0) 70%);
+          top: -70px;
           left: 50%;
           transform: translateX(-50%);
           pointer-events: none;
         }
 
-        .greeting-text {
-          font-size: 32px;
-          font-weight: 700;
-          color: #e2e8f0;
-          letter-spacing: -0.01em;
+        .greeting-header {
           display: flex;
           align-items: center;
           gap: 10px;
@@ -72,47 +64,55 @@
 
         .wave-emoji {
           display: inline-block;
-          font-size: 36px;
+          font-size: 32px;
           transform-origin: 70% 70%;
-          animation: waveHand 2.5s infinite ease-in-out;
+          animation: waveHand 2.4s infinite ease-in-out;
+        }
+
+        .greeting-text {
+          font-size: 28px;
+          font-weight: 700;
+          color: #f1f5f9;
+          letter-spacing: -0.01em;
         }
 
         .name-highlight {
-          font-size: 40px;
+          font-size: 32px;
           font-weight: 900;
-          background: linear-gradient(90deg, #c084fc, #f472b6, #38bdf8, #c084fc);
-          background-size: 300% 300%;
+          background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc, #f472b6);
+          background-size: 250% 250%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
           background-clip: text;
           animation: gradientMove 4s ease infinite, pulseGlow 3s infinite ease-in-out;
           letter-spacing: -0.02em;
-          padding: 0 4px;
         }
 
-        .sparkle {
-          position: absolute;
-          font-size: 16px;
-          color: #f472b6;
-          animation: floatSparkle 3s ease-in-out infinite;
+        .greeting-desc {
+          font-size: 13.5px;
+          font-weight: 500;
+          color: #94a3b8;
+          letter-spacing: 0.02em;
+          text-align: center;
         }
-        .sp1 { top: 15px; left: 40px; animation-delay: 0s; }
-        .sp2 { bottom: 15px; right: 50px; animation-delay: 1.5s; color: #38bdf8; }
-        .sp3 { top: 20px; right: 120px; animation-delay: 0.8s; color: #c084fc; }
 
+        .greeting-desc span {
+          color: #c084fc;
+          font-weight: 600;
+        }
       </style>
 
       <div class="container">
         <div class="ambient-light"></div>
-        <span class="sparkle sp1">✦</span>
-        <span class="sparkle sp2">✦</span>
-        <span class="sparkle sp3">✨</span>
 
-        <div class="greeting-text">
-          <span>Greetings &amp; Welcome!</span>
+        <div class="greeting-header">
           <span class="wave-emoji">👋</span>
-          <span>I'm</span>
+          <span class="greeting-text">Welcome! I'm</span>
           <span class="name-highlight">Krishna Kumar</span>
+        </div>
+
+        <div class="greeting-desc">
+          Crafting resilient <span>Spring Boot microservices</span>, optimized <span>PostgreSQL architectures</span>, and intelligent <span>LLM solutions</span>.
         </div>
       </div>
     </div>
