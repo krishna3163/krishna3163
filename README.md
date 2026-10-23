@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `23 October 2026, 10:10 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `24 October 2026, 01:20 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -315,7 +315,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
         <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
-        <p>⭐ <b>41</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>42</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
     </tr>
     <tr>
@@ -414,6 +414,18 @@
     </tr>
     <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root"><code>krishna3163/best_shizuku_apps_for_android_no_root</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/best-root-apps-for-android"><code>krishna3163/best-root-apps-for-android</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-10-23</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/SyncTube"><code>krishna3163/SyncTube</code></a></td>
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-10-22</code></td>
@@ -429,18 +441,6 @@
       <td align="left"><a href="https://github.com/krishna3163/Cider-desktop"><code>krishna3163/Cider-desktop</code></a></td>
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-10-22</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/Student-Management-System-"><code>krishna3163/Student-Management-System-</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-10-22</code></td>
-    </tr>
-    <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/krishna3163/HybridFileShare"><code>krishna3163/HybridFileShare</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
-      <td align="center"><code>2026-10-23</code></td>
     </tr>
   </table>
 </div>
@@ -468,7 +468,7 @@
     </a>
   </p>
   <br>
-  <h4><b>👥 Community Followers (30+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (31+ Developers)</b></h4>
   <p>
     <a href="https://github.com/standardgalactic" target="_blank" title="👥 Follower @standardgalactic">
       <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@standardgalactic" />
@@ -499,6 +499,9 @@
     </a>
     <a href="https://github.com/Jabaos" target="_blank" title="👥 Follower @Jabaos">
       <img src="https://avatars.githubusercontent.com/u/120006442?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Jabaos" />
+    </a>
+    <a href="https://github.com/cool129" target="_blank" title="👥 Follower @cool129">
+      <img src="https://avatars.githubusercontent.com/u/125102503?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@cool129" />
     </a>
     <a href="https://github.com/S4IL21" target="_blank" title="👥 Follower @S4IL21">
       <img src="https://avatars.githubusercontent.com/u/126200245?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@S4IL21" />
