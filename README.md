@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `27 October 2026, 03:01 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `27 October 2026, 05:15 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 230 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#737,717</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#738,083</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>95</code> solved</p>
