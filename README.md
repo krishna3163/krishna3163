@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `31 October 2026, 03:37 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `31 October 2026, 05:21 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 230 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#739,257</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#739,547</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>95</code> solved</p>
@@ -310,7 +310,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
         <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>156</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>157</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
