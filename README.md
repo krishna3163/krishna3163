@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `09 November 2026, 10:47 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `09 November 2026, 09:00 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -278,12 +278,12 @@
         <a href="https://leetcode.com/u/krishna0858/" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <h3><b>🧩 230 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#742,257</code></p>
+        <h3><b>🧩 231 Problems Solved</b></h3>
+        <p>🏆 <b>Global Rank:</b> <code>#738,487</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>95</code> solved</p>
-        <p>🟡 <b>Medium:</b> <code>102</code> solved</p>
+        <p>🟡 <b>Medium:</b> <code>103</code> solved</p>
         <p>🔴 <b>Hard:</b> <code>33</code> solved</p>
       </td>
     </tr>
@@ -413,16 +413,22 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-11-07</code></td>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/liquidslr/system-design-notes"><code>liquidslr/system-design-notes</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
+      <td align="center"><code>2026-11-09</code></td>
     </tr>
     <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-11-08</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
+      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
+      <td align="left"><i>Update codebase</i></td>
+      <td align="center"><code>2026-11-07</code></td>
     </tr>
     <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
@@ -435,12 +441,6 @@
       <td align="left"><a href="https://github.com/kota-zo/myspoti"><code>kota-zo/myspoti</code></a></td>
       <td align="left"><i>Saved to favorites</i></td>
       <td align="center"><code>2026-11-07</code></td>
-    </tr>
-    <tr>
-      <td align="left">✨ Created branch</td>
-      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
-      <td align="left"><i>New branch initialized</i></td>
-      <td align="center"><code>2026-11-06</code></td>
     </tr>
   </table>
 </div>
