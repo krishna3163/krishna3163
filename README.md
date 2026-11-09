@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `09 November 2026, 11:59 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `10 November 2026, 03:27 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -413,16 +413,16 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/liquidslr/system-design-notes"><code>liquidslr/system-design-notes</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
-      <td align="center"><code>2026-11-09</code></td>
-    </tr>
-    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
       <td align="left"><i>Update codebase</i></td>
       <td align="center"><code>2026-11-08</code></td>
+    </tr>
+    <tr>
+      <td align="left">⭐ Starred repo</td>
+      <td align="left"><a href="https://github.com/liquidslr/system-design-notes"><code>liquidslr/system-design-notes</code></a></td>
+      <td align="left"><i>Saved to favorites</i></td>
+      <td align="center"><code>2026-11-09</code></td>
     </tr>
     <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
