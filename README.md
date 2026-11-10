@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `10 November 2026, 03:27 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `10 November 2026, 06:28 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -639,7 +639,7 @@
   <br><br>
 
   <!-- DAILY_QUOTE:START -->
-> *“First, solve the problem. Then, write the code.”* — **John Johnson**
+> *“Experience is the name everyone gives to their mistakes.”* — **Oscar Wilde**
 <!-- DAILY_QUOTE:END -->
 
   <br>
