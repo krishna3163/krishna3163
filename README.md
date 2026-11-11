@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `11 November 2026, 10:47 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `11 November 2026, 07:15 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 231 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#738,763</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#739,083</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>95</code> solved</p>
@@ -310,7 +310,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
         <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>168</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>169</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
@@ -322,7 +322,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
         <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>42</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+        <p>⭐ <b>41</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
@@ -468,8 +468,11 @@
     </a>
   </p>
   <br>
-  <h4><b>👥 Community Followers (36+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (37+ Developers)</b></h4>
   <p>
+    <a href="https://github.com/cybin2243" target="_blank" title="👥 Follower @cybin2243">
+      <img src="https://avatars.githubusercontent.com/u/30615850?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@cybin2243" />
+    </a>
     <a href="https://github.com/muhammadalwansyah" target="_blank" title="👥 Follower @muhammadalwansyah">
       <img src="https://avatars.githubusercontent.com/u/35336254?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@muhammadalwansyah" />
     </a>
