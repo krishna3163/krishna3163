@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `17 November 2026, 06:12 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `17 November 2026, 09:09 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -468,7 +468,7 @@
     </a>
   </p>
   <br>
-  <h4><b>👥 Community Followers (39+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (40+ Developers)</b></h4>
   <p>
     <a href="https://github.com/cybin2243" target="_blank" title="👥 Follower @cybin2243">
       <img src="https://avatars.githubusercontent.com/u/30615850?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@cybin2243" />
@@ -562,6 +562,9 @@
     </a>
     <a href="https://github.com/DSQ2x" target="_blank" title="👥 Follower @DSQ2x">
       <img src="https://avatars.githubusercontent.com/u/239088141?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@DSQ2x" />
+    </a>
+    <a href="https://github.com/shahidazam2020-oss" target="_blank" title="👥 Follower @shahidazam2020-oss">
+      <img src="https://avatars.githubusercontent.com/u/242987063?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@shahidazam2020-oss" />
     </a>
     <a href="https://github.com/Saqquibkhan00" target="_blank" title="👥 Follower @Saqquibkhan00">
       <img src="https://avatars.githubusercontent.com/u/245874007?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Saqquibkhan00" />
