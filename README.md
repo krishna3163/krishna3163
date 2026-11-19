@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `19 November 2026, 12:40 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `19 November 2026, 05:54 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 235 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#725,400</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#725,689</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>96</code> solved</p>
@@ -310,7 +310,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
         <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>173</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>174</b> &nbsp;|&nbsp; 🍴 <b>9</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
@@ -468,7 +468,7 @@
     </a>
   </p>
   <br>
-  <h4><b>👥 Community Followers (40+ Developers)</b></h4>
+  <h4><b>👥 Community Followers (39+ Developers)</b></h4>
   <p>
     <a href="https://github.com/cybin2243" target="_blank" title="👥 Follower @cybin2243">
       <img src="https://avatars.githubusercontent.com/u/30615850?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@cybin2243" />
@@ -493,9 +493,6 @@
     </a>
     <a href="https://github.com/theBFGuk" target="_blank" title="👥 Follower @theBFGuk">
       <img src="https://avatars.githubusercontent.com/u/107422467?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@theBFGuk" />
-    </a>
-    <a href="https://github.com/AhmedDabish" target="_blank" title="👥 Follower @AhmedDabish">
-      <img src="https://avatars.githubusercontent.com/u/111189633?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@AhmedDabish" />
     </a>
     <a href="https://github.com/Raajj-Kumar-Sah" target="_blank" title="👥 Follower @Raajj-Kumar-Sah">
       <img src="https://avatars.githubusercontent.com/u/112543308?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Raajj-Kumar-Sah" />
