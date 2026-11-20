@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `20 November 2026, 05:31 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `20 November 2026, 10:51 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -278,13 +278,13 @@
         <a href="https://leetcode.com/u/krishna0858/" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
-        <h3><b>🧩 235 Problems Solved</b></h3>
+        <h3><b>🧩 242 Problems Solved</b></h3>
         <p>🏆 <b>Global Rank:</b> <code>#725,689</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>96</code> solved</p>
-        <p>🟡 <b>Medium:</b> <code>104</code> solved</p>
-        <p>🔴 <b>Hard:</b> <code>35</code> solved</p>
+        <p>🟡 <b>Medium:</b> <code>110</code> solved</p>
+        <p>🔴 <b>Hard:</b> <code>36</code> solved</p>
       </td>
     </tr>
   </table>
@@ -315,7 +315,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
         <p>Curated directory of Android root apps, Magisk, KernelSU, LSPosed modules, system ...</p>
-        <p>⭐ <b>61</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>62</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
     </tr>
     <tr>
