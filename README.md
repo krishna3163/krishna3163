@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `20 November 2026, 04:21 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `20 November 2026, 05:31 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -648,7 +648,7 @@
   <br><br>
 
   <!-- DAILY_QUOTE:START -->
-> *“Walking on water and developing software from a specification are easy if both are frozen.”* — **Edward V. Berard**
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* — **Martin Fowler**
 <!-- DAILY_QUOTE:END -->
 
   <br>
