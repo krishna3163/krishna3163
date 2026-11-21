@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `21 November 2026, 04:59 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `21 November 2026, 06:31 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -651,7 +651,7 @@
   <br><br>
 
   <!-- DAILY_QUOTE:START -->
-> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”* — **Martin Fowler**
+> *“First, solve the problem. Then, write the code.”* — **John Johnson**
 <!-- DAILY_QUOTE:END -->
 
   <br>
