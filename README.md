@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `26 November 2026, 12:00 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `26 November 2026, 02:35 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -503,6 +503,9 @@
     <a href="https://github.com/Raajj-Kumar-Sah" target="_blank" title="👥 Follower @Raajj-Kumar-Sah">
       <img src="https://avatars.githubusercontent.com/u/112543308?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Raajj-Kumar-Sah" />
     </a>
+    <a href="https://github.com/cezali-1genc" target="_blank" title="👥 Follower @cezali-1genc">
+      <img src="https://avatars.githubusercontent.com/u/118315794?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@cezali-1genc" />
+    </a>
     <a href="https://github.com/rahuloraj" target="_blank" title="👥 Follower @rahuloraj">
       <img src="https://avatars.githubusercontent.com/u/119727688?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@rahuloraj" />
     </a>
@@ -586,9 +589,6 @@
     </a>
     <a href="https://github.com/2303630100089-lang" target="_blank" title="👥 Follower @2303630100089-lang">
       <img src="https://avatars.githubusercontent.com/u/266461784?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@2303630100089-lang" />
-    </a>
-    <a href="https://github.com/AbuMhmd1994" target="_blank" title="👥 Follower @AbuMhmd1994">
-      <img src="https://avatars.githubusercontent.com/u/269093729?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@AbuMhmd1994" />
     </a>
   </p>
   <br>
