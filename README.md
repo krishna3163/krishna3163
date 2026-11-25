@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `25 November 2026, 01:01 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `25 November 2026, 07:17 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 257 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#648,085</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#648,332</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>103</code> solved</p>
@@ -310,7 +310,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best_shizuku_apps_for_android_no_root">📦 best_shizuku_apps_for_android_no_root</a></h4>
         <p>Curated Shizuku and no-root Android apps, wireless ADB tools, debloat utilities, p...</p>
-        <p>⭐ <b>181</b> &nbsp;|&nbsp; 🍴 <b>8</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
+        <p>⭐ <b>182</b> &nbsp;|&nbsp; 🍴 <b>8</b> &nbsp;|&nbsp; 🏷️ <code>Python</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/best-root-apps-for-android">📦 best-root-apps-for-android</a></h4>
@@ -322,7 +322,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
         <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>48</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+        <p>⭐ <b>49</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
@@ -548,6 +548,9 @@
     <a href="https://github.com/shivrajsingh432" target="_blank" title="👥 Follower @shivrajsingh432">
       <img src="https://avatars.githubusercontent.com/u/197873399?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@shivrajsingh432" />
     </a>
+    <a href="https://github.com/Abhayvishwakarma-dev" target="_blank" title="👥 Follower @Abhayvishwakarma-dev">
+      <img src="https://avatars.githubusercontent.com/u/201896162?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Abhayvishwakarma-dev" />
+    </a>
     <a href="https://github.com/Princekumar60090" target="_blank" title="👥 Follower @Princekumar60090">
       <img src="https://avatars.githubusercontent.com/u/209690435?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@Princekumar60090" />
     </a>
@@ -586,9 +589,6 @@
     </a>
     <a href="https://github.com/AbuMhmd1994" target="_blank" title="👥 Follower @AbuMhmd1994">
       <img src="https://avatars.githubusercontent.com/u/269093729?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@AbuMhmd1994" />
-    </a>
-    <a href="https://github.com/aHqeem69" target="_blank" title="👥 Follower @aHqeem69">
-      <img src="https://avatars.githubusercontent.com/u/285636253?v=4" width="50" height="50" style="border-radius: 50%; margin: 3px; border: 2px solid #8B5CF6;" alt="@aHqeem69" />
     </a>
   </p>
   <br>
