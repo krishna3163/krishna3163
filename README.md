@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Morning! 🌅** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 08:05 AM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 12:20 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -325,9 +325,9 @@
         <p>⭐ <b>52</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
       </td>
       <td width="50%" valign="top">
-        <h4><a href="https://github.com/krishna3163/OpenDiscover">📦 OpenDiscover</a></h4>
-        <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>36</b> &nbsp;|&nbsp; 🍴 <b>0</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+        <h4><a href="https://github.com/krishna3163/OmniShizuku">📦 OmniShizuku</a></h4>
+        <p>An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools...</p>
+        <p>⭐ <b>36</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Kotlin</code></p>
       </td>
     </tr>
   </table>
