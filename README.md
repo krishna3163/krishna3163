@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Afternoon! ☀️** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 12:52 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 06:54 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -279,7 +279,7 @@
           <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
         </a>
         <h3><b>🧩 257 Problems Solved</b></h3>
-        <p>🏆 <b>Global Rank:</b> <code>#648,591</code></p>
+        <p>🏆 <b>Global Rank:</b> <code>#648,870</code></p>
       </td>
       <td width="65%" valign="middle">
         <p>🟢 <b>Easy:</b> <code>103</code> solved</p>
@@ -327,7 +327,7 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/OmniShizuku">📦 OmniShizuku</a></h4>
         <p>An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools...</p>
-        <p>⭐ <b>36</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Kotlin</code></p>
+        <p>⭐ <b>41</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Kotlin</code></p>
       </td>
     </tr>
   </table>
@@ -413,6 +413,18 @@
       <th align="center" width="12%">Date</th>
     </tr>
     <tr>
+      <td align="left">🔀 Unassigned PR #78</td>
+      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
+      <td align="left"><i>Pull request contribution</i></td>
+      <td align="center"><code>2026-11-14</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔀 Assigned PR #78</td>
+      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
+      <td align="left"><i>Pull request contribution</i></td>
+      <td align="center"><code>2026-11-14</code></td>
+    </tr>
+    <tr>
       <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
       <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
       <td align="left"><i>Update codebase</i></td>
@@ -429,18 +441,6 @@
       <td align="left"><a href="https://github.com/keycloak/keycloak"><code>keycloak/keycloak</code></a></td>
       <td align="left"><i>Saved to favorites</i></td>
       <td align="center"><code>2026-11-15</code></td>
-    </tr>
-    <tr>
-      <td align="left">⭐ Starred repo</td>
-      <td align="left"><a href="https://github.com/google/elephant-goldfish-model"><code>google/elephant-goldfish-model</code></a></td>
-      <td align="left"><i>Saved to favorites</i></td>
-      <td align="center"><code>2026-11-13</code></td>
-    </tr>
-    <tr>
-      <td align="left">🔨 Pushed <b>1 commit(s)</b></td>
-      <td align="left"><a href="https://github.com/krishna3163/OmniShizuku"><code>krishna3163/OmniShizuku</code></a></td>
-      <td align="left"><i>Update codebase</i></td>
-      <td align="center"><code>2026-11-11</code></td>
     </tr>
   </table>
 </div>
