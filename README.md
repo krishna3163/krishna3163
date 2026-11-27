@@ -39,7 +39,7 @@
   <!-- 🦉 LIVE STATUS & DYNAMIC GREETING                           -->
   <!-- ============================================================ -->
   <!-- DYNAMIC_GREETING:START -->
-**Good Evening! 🌆** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 06:54 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
+**Late Night Coding Session! 🦉** &nbsp;•&nbsp; 🕒 *Current Time:* `27 November 2026, 11:25 PM IST` &nbsp;•&nbsp; 🟢 *Status:* Open for Collaboration & SDE Roles
 <!-- DYNAMIC_GREETING:END -->
 
   <br>
@@ -322,12 +322,12 @@
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/GooglePhoto_Alternative">📦 GooglePhoto_Alternative</a></h4>
         <p>Open source project by Krishna Kumar</p>
-        <p>⭐ <b>52</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
+        <p>⭐ <b>53</b> &nbsp;|&nbsp; 🍴 <b>1</b> &nbsp;|&nbsp; 🏷️ <code>TypeScript</code></p>
       </td>
       <td width="50%" valign="top">
         <h4><a href="https://github.com/krishna3163/OmniShizuku">📦 OmniShizuku</a></h4>
         <p>An open-source Android utility for Shizuku, ADB, and Dhizuku workflows, with tools...</p>
-        <p>⭐ <b>41</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Kotlin</code></p>
+        <p>⭐ <b>43</b> &nbsp;|&nbsp; 🍴 <b>6</b> &nbsp;|&nbsp; 🏷️ <code>Kotlin</code></p>
       </td>
     </tr>
   </table>
